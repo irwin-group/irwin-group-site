@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pictures | Irwin Group</title>
+  <meta name="description" content="Irwin Group photos.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page-pictures">
+
+  <!-- ===== HEADER (same on every page) ===== -->
+  <header class="site-header">
+    <nav class="container nav">
+      <a class="brand" href="index.html"><strong>Irwin Group</strong><small>Quantum Measurement for Fundamental Physics</small></a>
+      <input type="checkbox" id="nav-toggle">
+      <label for="nav-toggle" class="nav-burger" aria-label="Menu">&#9776;</label>
+      <ul class="nav-links">
+        <li class="has-sub"><a href="research.html">Research</a>
+          <ul class="sub">
+            <li><a href="research-dmradio.html">Dark Matter Radio</a></li>
+            <li><a href="research-rqu.html">Radio-frequency Quantum Upconverters</a></li>
+            <li><a href="research-squid-noise.html">Correlated SQUID Noise</a></li>
+            <li><a href="research-scanning-squid.html">Scanning SQUID Microscopy</a></li>
+          </ul>
+        </li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="pictures.html" class="active">Pictures</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="ss-stage">
+      <div class="ss-bg" id="ss-bg"></div>
+      <div class="container">
+        <h1 class="ss-title">Group Pictures</h1>
+        <!--
+          HOW TO ADD PHOTOS
+          1. Save photos in images/gallery/ (e.g. image-6.jpg).
+          2. Copy one <figure class="slide"> ... </figure> block below, then change the
+             file name and caption. Slides show in the order they appear here.
+        -->
+        <div class="slideshow" id="slideshow">
+          <div class="slides">
+          <figure class="slide">
+            <img src="images/gallery/image-1.jpg" alt="Tide Pools at Bean Hollow State Beach 2026">
+            <figcaption>Tide Pools at Bean Hollow State Beach 2026</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-2.jpg" alt="NIST Boulder Tour 2026">
+            <figcaption>NIST Boulder Tour 2026</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-3.jpg" alt="APS Global Physics Summit dinner 2025">
+            <figcaption>APS Global Physics Summit dinner 2025</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-4.jpg" alt="South Lake Tahoe 2025">
+            <figcaption>South Lake Tahoe 2025</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-5.jpg" alt="DMRadio-50L custom cryostat arrives at Stanford 2025">
+            <figcaption>DMRadio-50L custom cryostat arrives at Stanford 2025</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-6.jpg" alt="Group dinner with Nobel Laureate John Clarke 2026">
+            <figcaption>Group dinner with Nobel Laureate John Clarke 2026</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-7.jpg" alt="Cady passes her thesis defense! 2026">
+            <figcaption>Cady passes her thesis defense! 2026</figcaption>
+          </figure>
+          <figure class="slide">
+            <img src="images/gallery/image-8.jpg" alt="Opening up the DMRadio-50L cryostat after the first magnet cooldown 2026">
+            <figcaption>Opening up the DMRadio-50L cryostat after the first magnet cooldown 2026</figcaption>
+          </figure>
+          </div>
+          <button class="ss-btn prev" aria-label="Previous photo">&#8249;</button>
+          <button class="ss-btn next" aria-label="Next photo">&#8250;</button>
+        </div>
+        <div class="ss-meta"><span class="ss-caption"></span><span class="ss-count"></span></div>
+        <div class="ss-dots"></div>
+      </div>
+    </section>
+
+    <script>
+    (function () {
+      var root = document.getElementById("slideshow");
+      var slides = Array.prototype.slice.call(root.querySelectorAll(".slide"));
+      var dotsBox = document.querySelector(".ss-dots");
+      var cap = document.querySelector(".ss-caption");
+      var count = document.querySelector(".ss-count");
+      var AUTO_MS = 6000;   /* auto-advance every 6 s; set to 0 to turn off */
+      var i = 0, timer = null;
+
+      slides.forEach(function (s, n) {
+        var img = s.querySelector("img");
+        img.onerror = function () { s.classList.add("missing"); };
+        if (img.complete && img.naturalWidth === 0) s.classList.add("missing");
+        var d = document.createElement("button");
+        d.setAttribute("aria-label", "Show photo " + (n + 1));
+        d.onclick = function () { go(n); restart(); };
+        dotsBox.appendChild(d);
+      });
+      var dots = dotsBox.querySelectorAll("button");
+
+      function go(n) {
+        i = (n + slides.length) % slides.length;
+        slides.forEach(function (s, k) { s.classList.toggle("on", k === i); });
+        dots.forEach(function (d, k) { d.classList.toggle("on", k === i); });
+        var bg = document.getElementById("ss-bg");
+        var im = slides[i].querySelector("img");
+        if (bg && im && !slides[i].classList.contains("missing")) bg.style.backgroundImage = "url('" + im.getAttribute("src") + "')";
+        var fc = slides[i].querySelector("figcaption");
+        cap.textContent = fc ? fc.textContent : "";
+        count.textContent = (i + 1) + " / " + slides.length;
+      }
+      function restart() {
+        if (timer) clearInterval(timer);
+        if (AUTO_MS) timer = setInterval(function () { go(i + 1); }, AUTO_MS);
+      }
+      root.querySelector(".prev").onclick = function () { go(i - 1); restart(); };
+      root.querySelector(".next").onclick = function () { go(i + 1); restart(); };
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "ArrowLeft") { go(i - 1); restart(); }
+        if (e.key === "ArrowRight") { go(i + 1); restart(); }
+      });
+      var x0 = null;
+      root.addEventListener("touchstart", function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+      root.addEventListener("touchend", function (e) {
+        if (x0 === null) return;
+        var dx = e.changedTouches[0].clientX - x0;
+        if (Math.abs(dx) > 40) { go(dx < 0 ? i + 1 : i - 1); restart(); }
+        x0 = null;
+      });
+      root.addEventListener("mouseenter", function () { if (timer) clearInterval(timer); });
+      root.addEventListener("mouseleave", restart);
+      go(0); restart();
+    })();
+    </script>
+  </main>
+
+  <!-- ===== FOOTER (same on every page) ===== -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        Irwin Group &middot; Quantum Measurement for Fundamental Physics<br>
+        Department of Physics, Stanford University · SLAC National Accelerator Laboratory
+      </div>
+      <div>
+        <a href="mailto:irwin-group-interest@lists.stanford.edu">irwin-group-interest@lists.stanford.edu</a><br>
+        &copy; 2026 Irwin Group
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

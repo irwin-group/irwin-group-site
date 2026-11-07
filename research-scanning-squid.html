@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Scanning SQUID Microscopy | Irwin Group</title>
+  <meta name="description" content="Scanning SQUID microscopy.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page-research-scanning-squid">
+
+  <!-- ===== HEADER (same on every page) ===== -->
+  <header class="site-header">
+    <nav class="container nav">
+      <a class="brand" href="index.html"><strong>Irwin Group</strong><small>Quantum Measurement for Fundamental Physics</small></a>
+      <input type="checkbox" id="nav-toggle">
+      <label for="nav-toggle" class="nav-burger" aria-label="Menu">&#9776;</label>
+      <ul class="nav-links">
+        <li class="has-sub"><a href="research.html" class="active">Research</a>
+          <ul class="sub">
+            <li><a href="research-dmradio.html">Dark Matter Radio</a></li>
+            <li><a href="research-rqu.html">Radio-frequency Quantum Upconverters</a></li>
+            <li><a href="research-squid-noise.html">Correlated SQUID Noise</a></li>
+            <li><a href="research-scanning-squid.html" class="active">Scanning SQUID Microscopy</a></li>
+          </ul>
+        </li>
+        <li><a href="people.html">People</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="pictures.html">Pictures</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Banner photo: save as images/banners/scanning-squid.jpg -->
+    <section class="page-head photo-head"><img class="banner-bg" src="images/banners/scanning-squid.jpg" alt="" style="object-position:center 50%" onerror="this.remove()"><div class="container"><div class="breadcrumb"><a href="research.html">Research</a> /</div><h1>Scanning SQUID Microscopy</h1></div></section>
+    <section>
+      <div class="container article">
+        <p>Scanning superconducting quantum interference device (SQUID) microscopy probes local magnetic fields and susceptibility with micron-scale spatial resolution. In collaboration with the B&oslash;ttcher group, the Irwin group investigates superconducting devices and develops scanning techniques for studying quantum coherent systems.</p>
+        <p>A central question is how to increase magnetic sensitivity without disturbing the sample. Conventional DC SQUIDs operate at finite voltage, generating dissipation and Josephson radiation that can perturb the systems under investigation. We are exploring radiofrequency (RF) SQUIDs that measure flux through shifts in a microwave resonance while operating in the zero-voltage state. These devices have resonances tunable over approximately 3&ndash;12 GHz and use Josephson three-wave mixing to provide 10&ndash;20 dB of parametric gain. Operation at bias points with suppressed Kerr nonlinearity eliminates unwanted resonance shifts, while amplification within the sensor reduces the contribution of downstream readout noise. This approach offers a route to near-quantum-limited magnetic measurements of Andreev spin qubits, collective excitations, and fluctuations near the Berezinskii&ndash;Kosterlitz&ndash;Thouless transition.</p>
+        <p>We also use DC scanning SQUID microscopy to study flux trapping in Adiabatic Quantum Flux Parametron (AQFP) logic circuits. By imaging devices after repeated cooling cycles in controlled magnetic fields, we examine how the geometry and placement of patterned &ldquo;moats&rdquo; determine whether flux is captured away from Josephson junctions. These measurements guide circuit designs that reduce unwanted flux trapping.</p>
+        <figure>
+          <img src="images/aqfp-susceptibility.png" alt="Scanning SQUID susceptibility image of an AQFP circuit" onerror="this.parentNode.style.display='none'">
+          <figcaption>Scanning SQUID susceptibility image of a 300 &times; 300 &micro;m region of an AQFP circuit, resolving repeated logic cells and flux-trapping structures</figcaption>
+        </figure>
+        <p>Alongside this work, we are developing a scanning cage to reduce mechanical motion, improve sensor&ndash;sample alignment and magnetic field control, and accommodate both DC and RF measurements.</p>
+        <figure>
+          <img src="images/scanning-cage.jpg" alt="Rendering of the scanning SQUID cage" onerror="this.parentNode.style.display='none'">
+          <figcaption>Scanning SQUID cage rendering</figcaption>
+        </figure>
+        <div class="subnav"><a href="research-squid-noise.html">&larr; Correlated SQUID Noise</a><a href="research.html">All research &rarr;</a></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== FOOTER (same on every page) ===== -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        Irwin Group &middot; Quantum Measurement for Fundamental Physics<br>
+        Department of Physics, Stanford University · SLAC National Accelerator Laboratory
+      </div>
+      <div>
+        <a href="mailto:irwin-group-interest@lists.stanford.edu">irwin-group-interest@lists.stanford.edu</a><br>
+        &copy; 2026 Irwin Group
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
