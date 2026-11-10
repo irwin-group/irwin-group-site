@@ -515,3 +515,14 @@ main { --pad: clamp(24px, 12vw, 220px); }
 /* News: single-column list */
 .news-cards { grid-template-columns: 1fr !important; gap: 12px; max-width: 980px; }
 .news-card:hover { transform: translateY(-2px); }
+
+/* Contact: small easter-egg image */
+.contact-extra { display: flex; justify-content: flex-end; margin-top: 4px; }
+.contact-extra img { width: 110px; border-radius: 8px; opacity: .55; transform: rotate(-4deg);
+                     transition: opacity .25s ease, transform .25s ease; }
+.contact-extra img:hover { opacity: 1; transform: rotate(0deg) scale(1.15); }
+.contact-section.has-extra { grid-template-columns: 44px 1fr auto; align-items: start; }
+.has-extra .contact-extra { margin-top: 0; align-self: center; }
+@media (max-width: 620px) { .contact-section.has-extra { grid-template-columns: 1fr; } .has-extra .contact-extra { justify-content: flex-start; } }
+/* Contact image: shown plainly (no fade, tilt, or hover effect) */
+.contact-extra img, .contact-extra img:hover { opacity: 1; transform: none; transition: none; width: 150px; }
