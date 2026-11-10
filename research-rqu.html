@@ -44,10 +44,40 @@
         <p>The Irwin Group focuses on quantum sensing of electromagnetic signals in the VHF band (below 300 MHz), the frequency range of the axions targeted by DMRadio. We develop new quantum sensors, such as the Radio-frequency Quantum Upconverter (RQU), and use them to carry out quantum measurement protocols like backaction evasion for more sensitive searches for new physics.</p>
         <p>Established quantum metrology techniques such as photon counting and squeezing already enable sensitivity beyond the SQL, but mostly at GHz frequencies. At MHz frequencies, thermal noise is far larger, making the SQL much harder to reach. The RQU is designed to overcome this. It embeds a network of Josephson junctions in a superconducting microwave resonator and uses their nonlinearity to upconvert MHz signals to GHz frequencies, where well-established quantum measurement protocols can be applied. This brings beyond-SQL sensitivity within reach in the VHF band.</p>
         <p>We are currently optimizing the fabrication of our RQUs and using them to demonstrate quantum protocols such as backaction evasion. Next, we plan to build optimized devices with improved coupling and sensitivity, with the goal of integrating them into the DMRadio readout.</p>
-        <figure>
-          <img src="images/rqu-device.jpg" alt="Josephson junction array embedded in the RQU" onerror="this.parentNode.style.display='none'">
-          <figcaption>Josephson junction array embedded in the RQU</figcaption>
-        </figure>
+        <div class="mini-ss">
+          <div class="mss-stage">
+            <figure class="mslide"><img src="images/rqu-gallery/rqu-2.jpg" alt="RQU wafer develop process"><figcaption>RQU wafer develop process</figcaption></figure>
+            <figure class="mslide"><img src="images/rqu-gallery/rqu-3.jpg" alt="Lesker SIS tool in the SLAC Superconducting Quantum Foundry"><figcaption>Lesker SIS tool, SLAC Superconducting Quantum Foundry (SSQF)</figcaption></figure>
+            <figure class="mslide"><img src="images/rqu-gallery/rqu-1.jpg" alt="Packaged RQU chip"><figcaption>Packaged RQU chip</figcaption></figure>
+            <figure class="mslide show-bottom-left"><img src="images/rqu-device.jpg" alt="Josephson junction network at the heart of the RQU"><figcaption>Josephson junction network at the heart of the RQU, which is embedded in a microwave resonator</figcaption></figure>
+            <button class="ss-btn prev" aria-label="Previous photo">&#8249;</button>
+            <button class="ss-btn next" aria-label="Next photo">&#8250;</button>
+          </div>
+          <div class="mss-meta"><span class="mss-caption"></span><span class="mss-dots"></span></div>
+        </div>
+        <script>
+        document.querySelectorAll(".mini-ss").forEach(function (root) {
+          var slides = Array.prototype.slice.call(root.querySelectorAll(".mslide"));
+          var cap = root.querySelector(".mss-caption"), dotsBox = root.querySelector(".mss-dots");
+          var i = 0, dots = [];
+          slides.forEach(function (s, k) {
+            var d = document.createElement("button");
+            d.setAttribute("aria-label", "Show photo " + (k + 1));
+            d.onclick = function () { go(k); };
+            dotsBox.appendChild(d); dots.push(d);
+          });
+          function go(n) {
+            i = (n + slides.length) % slides.length;
+            slides.forEach(function (s, k) { s.classList.toggle("on", k === i); });
+            var fc = slides[i].querySelector("figcaption");
+            if (cap) cap.textContent = fc ? fc.textContent : "";
+            dots.forEach(function (d, k) { d.classList.toggle("on", k === i); });
+          }
+          root.querySelector(".prev").onclick = function () { go(i - 1); };
+          root.querySelector(".next").onclick = function () { go(i + 1); };
+          go(0);
+        });
+        </script>
         <div class="subnav"><a href="research-dmradio.html">&larr; Dark Matter Radio</a><a href="research-squid-noise.html">SQUID Backaction and Correlated Noise &rarr;</a></div>
       </div>
     </section>
