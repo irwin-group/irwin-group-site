@@ -604,3 +604,27 @@ figure.fig-sm img { max-width: 420px; width: 100%; }
   -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 6%, #000 90%, transparent 100%);
           mask-image: linear-gradient(to right, transparent 0%, #000 6%, #000 90%, transparent 100%);
 }
+/* Junction micrograph: softer, subtler left fade */
+.mss-stage .mslide.show-bottom-left img {
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,.5) 0%, #000 6%, #000 90%, transparent 100%);
+          mask-image: linear-gradient(to right, rgba(0,0,0,.5) 0%, #000 6%, #000 90%, transparent 100%);
+}
+/* All slideshow photos: softer, subtler side fades */
+.mss-stage .mslide img {
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,.5) 0%, #000 8%, #000 92%, rgba(0,0,0,.5) 100%);
+          mask-image: linear-gradient(to right, rgba(0,0,0,.5) 0%, #000 8%, #000 92%, rgba(0,0,0,.5) 100%);
+}
+.mss-stage .mslide.show-bottom-left img {
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,.5) 0%, #000 6%, #000 92%, rgba(0,0,0,.5) 100%);
+          mask-image: linear-gradient(to right, rgba(0,0,0,.5) 0%, #000 6%, #000 92%, rgba(0,0,0,.5) 100%);
+}
+/* Slideshow: medium side fade, and a bit larger */
+.mss-stage .mslide img {
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,.15) 0%, #000 10%, #000 90%, rgba(0,0,0,.15) 100%);
+          mask-image: linear-gradient(to right, rgba(0,0,0,.15) 0%, #000 10%, #000 90%, rgba(0,0,0,.15) 100%);
+}
+.mss-stage .mslide.show-bottom-left img {
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,.35) 0%, #000 7%, #000 90%, rgba(0,0,0,.15) 100%);
+          mask-image: linear-gradient(to right, rgba(0,0,0,.35) 0%, #000 7%, #000 90%, rgba(0,0,0,.15) 100%);
+}
+.mss-stage, .mss-meta { max-width: 880px; }
