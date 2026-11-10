@@ -628,3 +628,7 @@ figure.fig-sm img { max-width: 420px; width: 100%; }
           mask-image: linear-gradient(to right, rgba(0,0,0,.35) 0%, #000 7%, #000 90%, rgba(0,0,0,.15) 100%);
 }
 .mss-stage, .mss-meta { max-width: 880px; }
+.awards-list a { color: var(--ink); font-weight: 600; }
+.awards-list a:hover { color: var(--accent); }
+.awards-list li { font-weight: 600; color: var(--ink); }
+.awards-list .edu-year { font-weight: 400; }
