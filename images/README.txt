@@ -1,6 +1,6 @@
 Images the pages expect (save with exactly these names):
   dmradio-sensitivity.png   - DMRadio sensitivity plot (Dark Matter Radio page)
-  aqfp-susceptibility.png   - AQFP scanning SQUID image (Scanning SQUID page)
+  aqfp-susceptibility.jpg   - AQFP scanning SQUID image (Scanning SQUID page)
   scanning-cage.jpg         - scanning cage render (Scanning SQUID page)
   rqu-device.jpg            - optional, card image for RQU
   home.jpg                  - group photo across the top of the home page (wide, landscape)
