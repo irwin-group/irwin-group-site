@@ -632,3 +632,25 @@ figure.fig-sm img { max-width: 420px; width: 100%; }
 .awards-list a:hover { color: var(--accent); }
 .awards-list li { font-weight: 600; color: var(--ink); }
 .awards-list .edu-year { font-weight: 400; }
+
+/* ---------- Complete publication list (collapsible) ---------- */
+.all-pubs { margin-top: 40px; border-top: 1px solid var(--line); padding-top: 28px; }
+.all-pubs > summary {
+  list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;
+  font-family: var(--font-head); font-weight: 700; font-size: 1.15rem; color: #fff; background: var(--bar);
+  padding: 12px 22px; border-radius: 8px; box-shadow: 0 6px 18px rgba(28,32,38,.15); transition: background .15s ease;
+}
+.all-pubs > summary::-webkit-details-marker { display: none; }
+.all-pubs > summary::after { content: "\25BE"; font-size: .9em; transition: transform .2s ease; }
+.all-pubs[open] > summary::after { transform: rotate(180deg); }
+.all-pubs > summary:hover { background: var(--red); }
+.all-pubs[open] .ap-label::before { content: "Hide "; }
+.all-pubs[open] .ap-label { font-size: 0; }
+.all-pubs[open] .ap-label::before { font-size: 1.15rem; content: "Hide all publications"; }
+.ap-count { font-weight: 400; opacity: .75; }
+.ap-note { color: var(--muted); margin: 18px 0 6px; }
+/* lighter rows for the long list */
+.ap-list { gap: 0; }
+.ap-list li { background: none; border: none; border-bottom: 1px solid var(--line); border-radius: 0; padding: 10px 0; box-shadow: none !important; transform: none !important; }
+.ap-list li::before { display: none; }
+.ap-list .title { font-size: .98rem; }

@@ -1,0 +1,122 @@
+[
+ {
+  "year": 2026,
+  "authors": "V. Ankel, et al.",
+  "title": "The Cryogenic System of DMRadio-50L",
+  "venue": "<em>arXiv</em>:2607.05771",
+  "doi": "https://arxiv.org/abs/2607.05771",
+  "tag": "arXiv"
+ },
+ {
+  "year": 2026,
+  "authors": "V. Ankel, et al.",
+  "title": "DMRadio-Core: A new approach for GUT-scale axion searches",
+  "venue": "<em>Physical Review D</em>, 114(9), 092004",
+  "doi": "https://journals.aps.org/prd/abstract/10.1103/rwv6-8hr3",
+  "tag": "Phys. Rev. D"
+ },
+ {
+  "year": 2025,
+  "authors": "A. AlShirawi, et al.",
+  "title": "Electromagnetic modeling and science reach of DMRadio-m<sup>3</sup>",
+  "venue": "<em>Physical Review D</em>, 112, 052001",
+  "doi": "https://journals.aps.org/prd/abstract/10.1103/bwgd-kxsb",
+  "tag": "Phys. Rev. D"
+ },
+ {
+  "year": 2025,
+  "authors": "Kuenstner, S., van Assendelft, E., Chaudhuri, S., Cho, H., Corbin, J., Henderson, S., Kadribasic, F., Li, D., Phipps, A., Rapidis, N., Simanovskaia, M., Singh, J., Yu, C., &amp; Irwin, K.",
+  "title": "Quantum metrology of low-frequency electromagnetic modes with frequency upconverters",
+  "venue": "<em>Physical Review Research</em>, 7, 013281",
+  "doi": "https://doi.org/10.1103/PhysRevResearch.7.013281",
+  "tag": "Phys. Rev. Research"
+ },
+ {
+  "year": 2025,
+  "authors": "V. Ankel, et al.",
+  "title": "Noise limits for dc SQUID readout of high-<em>Q</em> resonators below 300 MHz",
+  "venue": "<em>Journal of Applied Physics</em>, 138(9), 094505",
+  "doi": "https://doi.org/10.1063/5.0280831",
+  "tag": "J. Appl. Phys."
+ },
+ {
+  "year": 2023,
+  "authors": "A. Chou, K. Irwin, R. H. Maruyama, et al.",
+  "title": "Quantum sensors for high energy physics",
+  "venue": "<em>arXiv</em>:2311.01930",
+  "doi": "https://arxiv.org/abs/2311.01930",
+  "tag": "arXiv"
+ },
+ {
+  "year": 2023,
+  "authors": "van Assendelft, E., Cho, H., Corbin, J., Kuenstner, S., Li, D., Phipps, A., Rapidis, N., Singh, J., Wells, K., &amp; Irwin, K.",
+  "title": "Measurements of DC SQUID Damping Effects on Superconducting Resonant Circuits",
+  "venue": "<em>IEEE Transactions on Applied Superconductivity</em>, 33(5)",
+  "doi": "https://ieeexplore.ieee.org/abstract/document/10081013",
+  "tag": "IEEE Trans. Appl. Supercond."
+ },
+ {
+  "year": 2023,
+  "authors": "N. M. Rapidis, on behalf of the DMRadio Collaboration",
+  "title": "Status of DMRadio-50L and DMRadio-m<sup>3</sup>",
+  "venue": "<em>SciPost Physics Proceedings</em>, 12, 036",
+  "doi": "https://scipost.org/SciPostPhysProc.12.036",
+  "tag": "SciPost Phys. Proc."
+ },
+ {
+  "year": 2022,
+  "authors": "L. Brouwer, et al.",
+  "title": "Proposal for a definitive search for GUT-scale QCD axions",
+  "venue": "<em>Physical Review D</em>, 106(11), 112003",
+  "doi": "https://doi.org/10.1103/PhysRevD.106.112003",
+  "tag": "Phys. Rev. D"
+ },
+ {
+  "year": 2022,
+  "authors": "L. Brouwer, et al.",
+  "title": "Projected sensitivity of DMRadio-m<sup>3</sup>: A search for the QCD axion below 1&nbsp;&micro;eV",
+  "venue": "<em>Physical Review D</em>, 106(10), 103008",
+  "doi": "https://doi.org/10.1103/PhysRevD.106.103008",
+  "tag": "Phys. Rev. D"
+ },
+ {
+  "year": 2021,
+  "authors": "Chaudhuri, S., Irwin, K., Graham, P., &amp; Mardon, J.",
+  "title": "Optimal Impedance-Matching and Quantum Limits of Electromagnetic Axion and Hidden-Photon Dark Matter Searches",
+  "venue": "<em>arXiv</em>:1803.01627",
+  "doi": "https://arxiv.org/abs/1803.01627",
+  "tag": "arXiv"
+ },
+ {
+  "year": 2020,
+  "authors": "Phipps, A., et al.",
+  "title": "Exclusion Limits on Hidden-Photon Dark Matter near 2 neV from a Fixed-Frequency Superconducting Lumped-Element Resonator",
+  "venue": "<em>Microwave Cavities and Detectors for Axion Research</em> (Springer), pp. 139&ndash;145",
+  "doi": "https://arxiv.org/abs/1906.08814",
+  "tag": "Springer Proceedings"
+ },
+ {
+  "year": 2019,
+  "authors": "Chaudhuri, S., Irwin, K. D., Graham, P. W., &amp; Mardon, J.",
+  "title": "Optimal Electromagnetic Searches for Axion and Hidden-Photon Dark Matter",
+  "venue": "<em>arXiv</em>:1904.05806",
+  "doi": "https://arxiv.org/abs/1904.05806",
+  "tag": "arXiv"
+ },
+ {
+  "year": 2017,
+  "authors": "Silva-Feaver, M., et al.",
+  "title": "Design Overview of DM Radio Pathfinder Experiment",
+  "venue": "<em>IEEE Transactions on Applied Superconductivity</em>, 27(4)",
+  "doi": "https://doi.org/10.1109/TASC.2016.2631425",
+  "tag": "IEEE Trans. Appl. Supercond."
+ },
+ {
+  "year": 2015,
+  "authors": "Chaudhuri, S., Graham, P., Irwin, K., Mardon, J., Rajendran, S., &amp; Zhao, Y.",
+  "title": "Radio for hidden-photon dark matter detection",
+  "venue": "<em>Physical Review D</em>, 92(7), 075012",
+  "doi": "https://doi.org/10.1103/PhysRevD.92.075012",
+  "tag": "Phys. Rev. D"
+ }
+]

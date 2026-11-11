@@ -1,0 +1,5232 @@
+[
+{
+"year": 2026,
+"title": "Design and Performance of 220 and 270 GHz Bandpass Filters for BICEP Array",
+"authors": "A. Steiger, P. R. Ade, Z. Ahmed, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "36 (6)",
+"doi": "https://doi.org/10.1109/TASC.2026.3677818",
+"num": 1
+},
+{
+"year": 2026,
+"title": "Performance and Sensitivity of the BICEP Array 150 GHz Receiver",
+"authors": "S. Zhang, P. A. R. Ade, Z. Ahmed, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "36 (6)",
+"doi": "https://doi.org/10.1109/TASC.2026.3698692",
+"num": 2
+},
+{
+"year": 2026,
+"title": "BICEP/Keck XXI: Constraints on early-Universe parity violation from multipole-dependent birefringence",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "113 (12)",
+"doi": "https://doi.org/10.1103/v8y3-m75b",
+"num": 3
+},
+{
+"year": 2026,
+"title": "The SPT-deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees",
+"authors": "K. Kornoelje, L. E. Bleem, E. S. Rykoff, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "1004 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/ae5f7b",
+"num": 4
+},
+{
+"year": 2026,
+"title": "Magic Diamond: Covalent Bond Formation of Melamine and Other Amines on Nanodiamond Surfaces",
+"authors": "T. C. Cheung, C. X. Stokes, J. A. Lopez-Rosas, et al.",
+"venue": "ACS Omega",
+"tag": "ACS Omega",
+"vol": "11 (17): 25526-25536",
+"doi": "https://doi.org/10.1021/acsomega.5c13652",
+"num": 5
+},
+{
+"year": 2026,
+"title": "Measurement of the Full Shape of the Thermal Sunyaev-Zel'dovich Power Spectrum from the South Pole Telescope and Herschel-SPIRE Observations",
+"authors": "S. Raghunathan, P. R. Ade, D. Anbajagane, et al.",
+"venue": "Astrophysical Journal Letters",
+"tag": "ApJL",
+"vol": "1002 (1)",
+"doi": "https://doi.org/10.3847/2041-8213/ae5c07",
+"num": 6
+},
+{
+"year": 2026,
+"title": "The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes",
+"authors": "I. Abril-Cabezas, S. Adachi, P. Ade, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2026/04/051",
+"num": 8
+},
+{
+"year": 2026,
+"title": "BICEP/Keck. XIX. Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High-throughput Millimeter-wave Telescopes",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "1000 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ae486d",
+"num": 9
+},
+{
+"year": 2026,
+"title": "BICEP/Keck. XX. Component-separated Maps of the Polarized Cosmic Microwave Background and Thermal Dust Emission Using Planck and BICEP/Keck Observations through the 2018 Observing Season",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "999 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/ae3e53",
+"num": 10
+},
+{
+"year": 2026,
+"title": "Improved Absolute Polarization Calibrator for BICEP CMB Polarimeters",
+"authors": "A. R. Polish, P. R. Ade, Z. Ahmed, et al.",
+"venue": "EPJ Web of Conferences",
+"tag": "EPJ Web Conf.",
+"vol": "",
+"doi": "https://doi.org/10.1051/epjconf/202635301013",
+"num": 11
+},
+{
+"year": 2025,
+"title": "The Atacama Cosmology Telescope: DR6 constraints on extended cosmological models",
+"authors": "E. Calabrese, J. Hill, H. T. Jense, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2025/11/063",
+"num": 12
+},
+{
+"year": 2025,
+"title": "The Atacama Cosmology Telescope: DR6 maps",
+"authors": "S. Naess, Y. Guan, A. J. Duivenvoorden, M. Hasselfield, Y. Wang",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2025/11/061",
+"num": 13
+},
+{
+"year": 2025,
+"title": "The Atacama Cosmology Telescope: DR6 power spectra, likelihoods and \u039bCDM parameters",
+"authors": "T. Louis, A. La Posta, Z. Atkins, H. T. Jense, Atacama Cosmology Telescope Collaboration",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2025/11/062",
+"num": 14
+},
+{
+"year": 2025,
+"title": "Noise limits for dc SQUID readout of high-Q resonators below 300 MHz",
+"authors": "V. Ankel, C. Bartram, J. Begin, et al.",
+"venue": "Journal of Applied Physics",
+"tag": "J. Appl. Phys.",
+"vol": "138 (9)",
+"doi": "https://doi.org/10.1063/5.0280831",
+"num": 15
+},
+{
+"year": 2025,
+"title": "Electromagnetic modeling and science reach of DMRadio-m3",
+"authors": "A. Alshirawi, V. Ankel, C. Bartram, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "112 (5)",
+"doi": "https://doi.org/10.1103/bwgd-kxsb",
+"num": 16
+},
+{
+"year": 2025,
+"title": "The Simons Observatory: science goals and forecasts for the enhanced Large Aperture Telescope",
+"authors": "M. Abitbol, I. Abril-Cabezas, S. Adachi, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2025/08/034",
+"num": 17
+},
+{
+"year": 2025,
+"title": "Description of the Electronic Structure of Oxyhemoglobin Using Fe L-Edge X-ray Absorption Spectroscopy",
+"authors": "A. Braun, C. J. Titus, L. B. Gee, et al.",
+"venue": "Journal of the American Chemical Society",
+"tag": "JACS",
+"vol": "",
+"doi": "https://doi.org/10.1021/jacs.5c05261",
+"num": 18
+},
+{
+"year": 2025,
+"title": "Measurements of the temperature and E-mode polarization of the cosmic microwave background from the full 500-square-degree SPTpol dataset",
+"authors": "T. Chou, P. R. Ade, A. J. Anderson, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "111 (12)",
+"doi": "https://doi.org/10.1103/PhysRevD.111.123513",
+"num": 19
+},
+{
+"year": 2025,
+"title": "The X-ray Integral Field Unit at the end of the Athena reformulation phase",
+"authors": "P. Peille, D. Barret, E. Cucchetti, et al.",
+"venue": "Experimental Astronomy",
+"tag": "Exp. Astron.",
+"vol": "59 (2)",
+"doi": "https://doi.org/10.1007/s10686-025-09984-w",
+"num": 20
+},
+{
+"year": 2025,
+"title": "Quantum metrology of low-frequency electromagnetic modes with frequency upconverters",
+"authors": "S. E. Kuenstner, E. C. van Assendelft, S. Chaudhuri, et al.",
+"venue": "Physical Review Research",
+"tag": "Phys. Rev. Research",
+"vol": "7 (1)",
+"doi": "https://doi.org/10.1103/PhysRevResearch.7.013281",
+"num": 21
+},
+{
+"year": 2025,
+"title": "BICEP/Keck XVIII: Measurement of BICEP3 polarization angles and consequences for constraining cosmic birefringence and inflation",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "111 (6)",
+"doi": "https://doi.org/10.1103/PhysRevD.111.063505",
+"num": 22
+},
+{
+"year": 2025,
+"title": "Analysis of Polarized Dust Emission Using Data from the First Flight of SPIDER",
+"authors": "P. R. Ade, M. Amiri, S. J. Benton, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "978 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ad900c",
+"num": 23
+},
+{
+"year": 2024,
+"title": "SPT clusters with DES and HST weak lensing. II. Cosmological constraints from the abundance of massive halos",
+"authors": "S. Bocquet, S. Grandis, L. E. Bleem, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "110 (8)",
+"doi": "https://doi.org/10.1103/PhysRevD.110.083510",
+"num": 24
+},
+{
+"year": 2024,
+"title": "In-flight performance of Spider's 280-GHz receivers",
+"authors": "E. C. Shaw, P. A. R. Ade, S. Akers, et al.",
+"venue": "Journal of Astronomical Telescopes, Instruments, and Systems",
+"tag": "JATIS",
+"vol": "10 (4)",
+"doi": "https://doi.org/10.1117/1.JATIS.10.4.044012",
+"num": 25
+},
+{
+"year": 2024,
+"title": "First Constraints on the Epoch of Reionization Using the Non-Gaussianity of the Kinematic Sunyaev-Zel'dovich Effect from the South Pole Telescope and Herschel-SPIRE Observations",
+"authors": "S. Raghunathan, P. A. Ade, A. J. Anderson, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "133 (12): 121004",
+"doi": "https://doi.org/10.1103/PhysRevLett.133.121004",
+"num": 26
+},
+{
+"year": 2024,
+"title": "Results and Limits of Time-Division Multiplexing for the BICEP Array High-Frequency Receivers",
+"authors": "S. Fatigoni, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-024-03100-6",
+"num": 27
+},
+{
+"year": 2024,
+"title": "End-to-End Modeling of the TDM Readout System for CMB-S4",
+"authors": "D. C. Goldfinger, Z. Ahmed, D. R. Barron, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-024-03077-2",
+"num": 28
+},
+{
+"year": 2024,
+"title": "Atacama Cosmology Telescope: High-resolution component-separated maps across one third of the sky",
+"authors": "W. Coulton, M. S. Madhavacheril, A. J. Duivenvoorden, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "109 (6)",
+"doi": "https://doi.org/10.1103/PhysRevD.109.063530",
+"num": 29
+},
+{
+"year": 2024,
+"title": "The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and Its Implications for Structure Growth",
+"authors": "F. Qu, B. D. Sherwin, M. S. Madhavacheril, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "962 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/acfe06",
+"num": 30
+},
+{
+"year": 2024,
+"title": "The Atacama Cosmology Telescope: DR6 Gravitational Lensing Map and Cosmological Parameters",
+"authors": "M. S. Madhavacheril, F. J. Qu, B. D. Sherwin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "962 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/acff5f",
+"num": 31
+},
+{
+"year": 2023,
+"title": "Quantum Diamonds at the Beach: Chemical Insights into Silica Growth on Nanoscale Diamond using Multimodal Characterization and Simulation",
+"authors": "P. J. Sandoval, K. Lopez, A. Arreola, et al.",
+"venue": "ACS Nanoscience Au",
+"tag": "ACS Nanosci. Au",
+"vol": "3 (6): 462-474",
+"doi": "https://doi.org/10.1021/acsnanoscienceau.3c00033",
+"num": 33
+},
+{
+"year": 2023,
+"title": "Measurement of gravitational lensing of the cosmic microwave background using SPT-3G 2018 data",
+"authors": "Z. Pan, F. Bianchini, W. K. Wu, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "108 (12)",
+"doi": "https://doi.org/10.1103/PhysRevD.108.122005",
+"num": 34
+},
+{
+"year": 2023,
+"title": "BICEP Array: 150 GHz Detector Module Development",
+"authors": "A. Schillaci, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "213 (5-6): 317-326",
+"doi": "https://doi.org/10.1007/s10909-023-03005-w",
+"num": 35
+},
+{
+"year": 2023,
+"title": "Measurements of DC SQUID Damping Effects on Superconducting Resonant Circuits",
+"authors": "E. C. van Assendelft, H. Cho, J. Corbin, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "33 (5)",
+"doi": "https://doi.org/10.1109/TASC.2023.3261261",
+"num": 37
+},
+{
+"year": 2023,
+"title": "BICEP/Keck. XVII. Line-of-sight Distortion Analysis: Estimates of Gravitational Lensing, Anisotropic Cosmic Birefringence, Patchy Reionization, and Systematic Errors",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "949 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/acc85c",
+"num": 38
+},
+{
+"year": 2023,
+"title": "Plastic Laminate Antireflective Coatings for Millimeter-Wave Optics in BICEP Array",
+"authors": "M. Dierickx, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-023-02967-1",
+"num": 39
+},
+{
+"year": 2023,
+"title": "BICEP/Keck. XVI. Characterizing Dust Polarization through Correlations with Neutral Hydrogen",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "945 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/acb64c",
+"num": 40
+},
+{
+"year": 2023,
+"title": "Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",
+"authors": "J. C. Hood II, A. Simpson, A. McDaniel, et al.",
+"venue": "Astrophysical Journal Letters",
+"tag": "ApJL",
+"vol": "945 (2)",
+"doi": "https://doi.org/10.3847/2041-8213/acbf45",
+"num": 41
+},
+{
+"year": 2023,
+"title": "The Athena X-ray Integral Field Unit: a consolidated design for the system requirement review of the preliminary definition phase",
+"authors": "D. Barret, V. Albouys, J. den Herder, et al.",
+"venue": "Experimental Astronomy",
+"tag": "Exp. Astron.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10686-022-09880-7",
+"num": 42
+},
+{
+"year": 2023,
+"title": "SLAC microresonator RF (SMuRF) electronics: A tone-tracking readout system for superconducting microwave resonator arrays. The Review of scientific instruments",
+"authors": "C. Yu, Z. Ahmed, J. C. Frisch, et al.",
+"venue": null,
+"tag": null,
+"vol": "94 (1): 014712",
+"doi": "https://doi.org/10.1063/5.0125084",
+"num": 43
+},
+{
+"year": 2022,
+"title": "Proposal for a definitive search for GUT-scale QCD axions",
+"authors": "L. Brouwer, S. Chaudhuri, H. Cho, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "106 (11)",
+"doi": "https://doi.org/10.1103/PhysRevD.106.112003",
+"num": 44
+},
+{
+"year": 2022,
+"title": "Projected sensitivity of DMRadio-m3: A search for the QCD axion below 1 mu eV",
+"authors": "L. Brouwer, S. Chaudhuri, H. Cho, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "106 (10)",
+"doi": "https://doi.org/10.1103/PhysRevD.106.103008",
+"num": 45
+},
+{
+"year": 2022,
+"title": "Asteroid Measurements at Millimeter Wavelengths with the South Pole Telescope",
+"authors": "P. M. Chichura, A. Foster, C. Patel, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "936 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ac89ec",
+"num": 46
+},
+{
+"year": 2022,
+"title": "In-Flight Gain Monitoring of SPIDER's Transition-Edge Sensor Arrays",
+"authors": "J. P. Filippini, A. E. Gambrel, A. S. Rahlin, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-022-02729-5",
+"num": 47
+},
+{
+"year": 2022,
+"title": "A Simulation-based Method for Correcting Mode Coupling in CMB Angular Power Spectra",
+"authors": "J. Leung, J. Hartley, J. M. Nagy, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "928 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ac562f",
+"num": 48
+},
+{
+"year": 2022,
+"title": "A Constraint on Primordial B-modes from the First Flight of the Spider Balloon-borne Telescope",
+"authors": "P. R. Ade, M. Amiri, S. J. Benton, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "927 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ac20df",
+"num": 49
+},
+{
+"year": 2022,
+"title": "BICEP/Keck XV: The BICEP3 Cosmic Microwave Background Polarimeter and the First Three-year Data Set",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "927 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/ac4886",
+"num": 50
+},
+{
+"year": 2022,
+"title": "The Design and Integrated Performance of SPT-3G",
+"authors": "J. A. Sobrin, A. J. Anderson, A. N. Bender, et al.",
+"venue": "Astrophysical Journal Supplement Series",
+"tag": "ApJS",
+"vol": "258 (2)",
+"doi": "https://doi.org/10.3847/1538-4365/ac374f",
+"num": 51
+},
+{
+"year": 2022,
+"title": "CMB-S4: Forecasting Constraints on Primordial Gravitational Waves",
+"authors": "K. Abazajian, G. E. Addison, P. Adshead, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "926 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/ac1596",
+"num": 52
+},
+{
+"year": 2022,
+"title": "BICEP/Keck XIV: Improved constraints on axionlike polarization oscillations in the cosmic microwave background",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "105 (2)",
+"doi": "https://doi.org/10.1103/PhysRevD.105.022006",
+"num": 53
+},
+{
+"year": 2022,
+"title": "Performance and characterization of the SPT-3G digital frequency-domain multiplexed readout system using an improved noise and crosstalk model",
+"authors": "J. Montgomery, P. A. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Astronomical Telescopes, Instruments, and Systems",
+"tag": "JATIS",
+"vol": "8 (1)",
+"doi": "https://doi.org/10.1117/1.JATIS.8.1.014001",
+"num": 55
+},
+{
+"year": 2022,
+"title": "Improved Polarization Calibration of the BICEP3 CMB Polarimeter at the South Pole",
+"authors": "J. Cornelison, C. Verges, P. R. Ade, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2620212",
+"num": 56
+},
+{
+"year": 2022,
+"title": "2022 Upgrade and Improved Low Frequency Camera Sensitivity for CMB Observation at the South Pole",
+"authors": "A. Soliman, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2628058",
+"num": 57
+},
+{
+"year": 2022,
+"title": "Thermal Testing for Cryogenic CMB Instrument Optical Design",
+"authors": "D. C. Goldfinger, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2629490",
+"num": 58
+},
+{
+"year": 2021,
+"title": "Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data",
+"authors": "M. Millea, C. M. Daley, T. Chou, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "922 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ac02bb",
+"num": 59
+},
+{
+"year": 2021,
+"title": "The XFaster Power Spectrum and Likelihood Estimator for the Analysis of Cosmic Microwave Background Maps",
+"authors": "A. E. Gambrel, A. S. Rahlin, X. Song, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "922 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ac230b",
+"num": 60
+},
+{
+"year": 2021,
+"title": "Constraints on Lambda CDM extensions from the SPT-3G 2018 EE and TE power spectra",
+"authors": "L. Balkenhol, D. Dutcher, P. R. Ade, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "104 (8)",
+"doi": "https://doi.org/10.1103/PhysRevD.104.083509",
+"num": 61
+},
+{
+"year": 2021,
+"title": "Mitigation of Finite Bandwidth Effects in Time-Division-Multiplexed SQUID Readout of TES Arrays",
+"authors": "M. Durkin, J. S. Adams, S. R. Bandler, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "31 (5)",
+"doi": "https://doi.org/10.1109/TASC.2021.3065279",
+"num": 62
+},
+{
+"year": 2021,
+"title": "Detection of Galactic and Extragalactic Millimeter-wavelength Transient Sources with SPT-3G",
+"authors": "S. Guns, A. Foster, C. Daley, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "916 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ac06a3",
+"num": 63
+},
+{
+"year": 2021,
+"title": "Performance of a Broad-Band, High-Resolution, Transition-Edge Sensor Spectrometer for X-ray Astrophysics",
+"authors": "S. J. Smith, J. S. Adams, S. R. Bandler, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "31 (5)",
+"doi": "https://doi.org/10.1109/TASC.2021.3061918",
+"num": 64
+},
+{
+"year": 2021,
+"title": "Search for dark photon dark matter: Dark E field radio pilot experiment",
+"authors": "B. Godfrey, J. Tyson, S. Hillbrand, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "104 (1)",
+"doi": "https://doi.org/10.1103/PhysRevD.104.012013",
+"num": 65
+},
+{
+"year": 2021,
+"title": "Measurements of the E-mode polarization and temperature-E-mode correlation of the CMB from SPT-3G 2018 data",
+"authors": "D. Dutcher, L. Balkenhol, P. R. Ade, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "104 (2)",
+"doi": "https://doi.org/10.1103/PhysRevD.104.022003",
+"num": 66
+},
+{
+"year": 2021,
+"title": "BICEP/Keck XII: Constraints on axionlike polarization oscillations in the cosmic microwave background",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "103 (4)",
+"doi": "https://doi.org/10.1103/PhysRevD.103.042002",
+"num": 67
+},
+{
+"year": 2021,
+"title": "An Improved Measurement of the Secondary Cosmic Microwave Background Anisotropies from the SPT-SZ plus SPTpol Surveys",
+"authors": "C. L. Reichardt, S. Patil, P. R. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "908 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/abd407",
+"num": 68
+},
+{
+"year": 2021,
+"title": "A demonstration of improved constraints on primordial gravitational waves with delensing",
+"authors": "P. R. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "103 (2)",
+"doi": "https://doi.org/10.1103/PhysRevD.103.022004",
+"num": 69
+},
+{
+"year": 2021,
+"title": "Improved Constraints on Primordial Gravitational Waves using Planck, WMAP, and BICEP/Keck Observations through the 2018 Observing Season",
+"authors": "P. A. Ade, Z. Ahmed, M. Amiri, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "127 (15): 151301",
+"doi": "https://doi.org/10.1103/PhysRevLett.127.151301",
+"num": 70
+},
+{
+"year": 2020,
+"title": "Depth-dependent valence stratification driven by oxygen redox in lithium-rich layered oxide",
+"authors": "J. Zhang, Q. Wang, S. Li, et al.",
+"venue": "Nature Communications",
+"tag": "Nat. Commun.",
+"vol": "11 (1): 6342",
+"doi": "https://doi.org/10.1038/s41467-020-20198-w",
+"num": 71
+},
+{
+"year": 2020,
+"title": "The Atacama Cosmology Telescope: a measurement of the Cosmic Microwave Background power spectra at 98 and 150 GHz",
+"authors": "S. K. Choi, M. Hasselfield, S. Ho, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2020/12/045",
+"num": 72
+},
+{
+"year": 2020,
+"title": "The Atacama Cosmology Telescope: DR4 maps and cosmological parameters",
+"authors": "S. Aiola, E. Calabrese, L. Maurin, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2020/12/047",
+"num": 73
+},
+{
+"year": 2020,
+"title": "SQUIDs and Transition-Edge Sensors",
+"authors": " Irwin",
+"venue": "Journal of Superconductivity and Novel Magnetism",
+"tag": "J. Supercond. Nov. Magn.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10948-020-05730-9",
+"num": 74
+},
+{
+"year": 2020,
+"title": "Searching for anisotropic cosmic birefringence with polarization data from SPTpol",
+"authors": "F. Bianchini, W. K. Wu, P. R. Ade, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "102 (8)",
+"doi": "https://doi.org/10.1103/PhysRevD.102.083504",
+"num": 75
+},
+{
+"year": 2020,
+"title": "Measurements of B-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",
+"authors": "J. T. Sayre, C. L. Reichardt, J. W. Henning, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "101 (12)",
+"doi": "https://doi.org/10.1103/PhysRevD.101.122003",
+"num": 76
+},
+{
+"year": 2020,
+"title": "Chemical control of competing electron transfer pathways in iron tetracyano-polypyridyl photosensitizers",
+"authors": "K. Kunnus, L. Li, C. Titus, et al.",
+"venue": "Chemical Science",
+"tag": "Chem. Sci.",
+"vol": "11 (17): 4360\u201373",
+"doi": "https://doi.org/10.1039/c9sc06272f",
+"num": 77
+},
+{
+"year": 2020,
+"title": "Particle Response of Antenna-Coupled TES Arrays: Results from SPIDER and the Laboratory",
+"authors": "B. Osherson, J. P. Filippini, J. Fu, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "199 (3-4): 1127\u201336",
+"doi": "https://doi.org/10.1007/s10909-020-02415-4",
+"num": 78
+},
+{
+"year": 2020,
+"title": "Microwave Multiplexing on the Keck Array",
+"authors": "A. Cukierman, Z. Ahmed, S. Henderson, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "199 (3-4): 858\u201366",
+"doi": "https://doi.org/10.1007/s10909-019-02296-2",
+"num": 79
+},
+{
+"year": 2020,
+"title": "Performance of Al-Mn Transition-Edge Sensor Bolometers in SPT-3G",
+"authors": "A. J. Anderson, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 320\u201329",
+"doi": "https://doi.org/10.1007/s10909-019-02259-7",
+"num": 81
+},
+{
+"year": 2020,
+"title": "Broadband, millimeter-wave antireflection coatings for large-format, cryogenic aluminum oxide optics",
+"authors": "A. Nadolski, J. D. Vieira, J. A. Sobrin, et al.",
+"venue": "Applied Optics",
+"tag": "Appl. Opt.",
+"vol": "59 (10): 3285\u201395",
+"doi": "https://doi.org/10.1364/AO.383921",
+"num": 82
+},
+{
+"year": 2020,
+"title": "On-Sky Performance of the SPT-3G Frequency-Domain Multiplexed Readout",
+"authors": "A. N. Bender, A. J. Anderson, J. S. Avva, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 182\u201391",
+"doi": "https://doi.org/10.1007/s10909-019-02280-w",
+"num": 83
+},
+{
+"year": 2020,
+"title": "Planar Self-similar Antennas for Broadband Millimeter-Wave Measurements",
+"authors": "J. Meinke, P. Mauskopf, B. R. Johnson, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-020-02427-0",
+"num": 84
+},
+{
+"year": 2020,
+"title": "Galaxy Clusters Selected via the Sunyaev-Zel'dovich Effect in the SPTpol 100-square-degree Survey",
+"authors": "N. Huang, L. E. Bleem, B. Stalder, et al.",
+"venue": "Astronomical Journal",
+"tag": "AJ",
+"vol": "159 (3)",
+"doi": "https://doi.org/10.3847/1538-3881/ab6a96",
+"num": 85
+},
+{
+"year": 2020,
+"title": "The SPTpol Extended Cluster Survey",
+"authors": "L. E. Bleem, S. Bocquet, B. Stalder, et al.",
+"venue": "Astrophysical Journal Supplement Series",
+"tag": "ApJS",
+"vol": "247 (1)",
+"doi": "https://doi.org/10.3847/1538-4365/ab6993",
+"num": 86
+},
+{
+"year": 2020,
+"title": "Characterizing the Sensitivity of 40 GHz TES Bolometers for BICEP Array",
+"authors": "C. Zhang, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-020-02411-8",
+"num": 87
+},
+{
+"year": 2020,
+"title": "Optical Design and Characterization of 40-GHz Detector and Module for the BICEP Array",
+"authors": "A. Soliman, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-019-02299-z",
+"num": 88
+},
+{
+"year": 2020,
+"title": "Optical Characterization of the Keck Array and BICEP3 CMB Polarimeters from 2016 to 2019",
+"authors": "T. St Germaine, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-020-02392-8",
+"num": 89
+},
+{
+"year": 2020,
+"title": "Count Rate Optimizations for TES Detectors at a Femtosecond X-ray Laser",
+"authors": "C. J. Titus, D. Li, B. K. Alpert, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-020-02379-5",
+"num": 90
+},
+{
+"year": 2020,
+"title": "Design and Performance of the First BICEP Array Receiver",
+"authors": "A. Schillaci, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "",
+"doi": "https://doi.org/10.1007/s10909-020-02394-6",
+"num": 91
+},
+{
+"year": 2020,
+"title": "Constraints on Cosmological Parameters from the 500 deg(2) SPTPOL Lensing Power Spectrum",
+"authors": "F. Bianchini, W. K. Wu, P. R. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "888 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ab6082",
+"num": 92
+},
+{
+"year": 2019,
+"title": "Fractional polarization of extragalactic sources in the 500 deg(2) SPTpol survey",
+"authors": "N. Gupta, C. L. Reichardt, P. R. Ade, et al.",
+"venue": "Monthly Notices of the Royal Astronomical Society",
+"tag": "MNRAS",
+"vol": "490 (4): 5712\u201321",
+"doi": "https://doi.org/10.1093/mnras/stz2905",
+"num": 93
+},
+{
+"year": 2019,
+"title": "Detection of CMB-Cluster Lensing using Polarization Data from SPTpol",
+"authors": "S. Raghunathan, S. Patil, E. Baxter, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "123 (18): 181301",
+"doi": "https://doi.org/10.1103/PhysRevLett.123.181301",
+"num": 94
+},
+{
+"year": 2019,
+"title": "BICEP2/Keck Array XI: Beam Characterization and Temperature-to-Polarization Leakage in the BK15 Data Set",
+"authors": "P. R. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "884 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ab391d",
+"num": 96
+},
+{
+"year": 2019,
+"title": "A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg(2) of SPTpol Temperature and Polarization Data",
+"authors": "W. K. Wu, L. M. Mocanu, P. R. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "884 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/ab4186",
+"num": 97
+},
+{
+"year": 2019,
+"title": "Synthesis of a copper-supported triplet nitrene complex pertinent to copper-catalyzed amination. Science (New",
+"authors": "York, K. M. N.Y.) Carsch, I. M. DiMucci, et al.",
+"venue": null,
+"tag": null,
+"vol": "365 (6458): 1138\u201343",
+"doi": "https://doi.org/10.1126/science.aax4423",
+"num": 98
+},
+{
+"year": 2019,
+"title": "Sub-Kelvin cooling for two kilopixel bolometer arrays in the PIPER receiver. The Review of scientific instruments",
+"authors": "E. R. Switzer, P. A. Ade, T. Baildon, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "90 (9): 095104",
+"doi": "https://doi.org/10.1063/1.5108649",
+"num": 99
+},
+{
+"year": 2019,
+"title": "Optimization of Time- and Code-Division-Multiplexed Readout for Athena X-IFU",
+"authors": "W. Doriese, S. R. Bandler, S. Chaudhuri, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "29 (5)",
+"doi": "https://doi.org/10.1109/TASC.2019.2905577",
+"num": 100
+},
+{
+"year": 2019,
+"title": "Two-Level Switches for Advanced Time-Division Multiplexing",
+"authors": "C. S. Dawson, S. Chaudhuri, C. J. Titus, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "29 (5)",
+"doi": "https://doi.org/10.1109/TASC.2019.2903394",
+"num": 101
+},
+{
+"year": 2019,
+"title": "Demonstration of Athena X-IFU Compatible 40-Row Time-Division-Multiplexed Readout",
+"authors": "M. Durkin, J. S. Adams, S. R. Bandler, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "29 (5)",
+"doi": "https://doi.org/10.1109/TASC.2019.2904472",
+"num": 102
+},
+{
+"year": 2019,
+"title": "Use of Transition Models to Design High Performance TESs for the LCLS-II Soft X-Ray Spectrometer",
+"authors": "K. M. Morgan, D. T. Becker, D. Bennett, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "29 (5)",
+"doi": "https://doi.org/10.1109/TASC.2019.2903032",
+"num": 103
+},
+{
+"year": 2019,
+"title": "High-Throughput, DC-Parametric Evaluation of Flux-Activated-Switch-Based TDM and CDM SQUID Multiplexers",
+"authors": "C. D. Reintsema, D. A. Bennett, E. Denison, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "29 (5)",
+"doi": "https://doi.org/10.1109/TASC.2019.2904594",
+"num": 104
+},
+{
+"year": 2019,
+"title": "Comparison of NIST SA13a and SA4b SQUID Array Amplifiers (vol 193, pg 600, 2019)",
+"authors": "M. Silva-Feaver, K. Arnold, D. Barron, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "196 (3-4): 410",
+"doi": "https://doi.org/10.1007/s10909-018-2083-0",
+"num": 106
+},
+{
+"year": 2019,
+"title": "Lynx x-ray microcalorimeter. Journal of astronomical telescopes, instruments, and systems",
+"authors": "S. R. Bandler, J. A. Chervenak, A. M. Datesman, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "5 (2): 021017",
+"doi": "https://doi.org/10.1117/1.JATIS.5.2.021017",
+"num": 107
+},
+{
+"year": 2019,
+"title": "Microwave SQUID multiplexing for the Lynx x-ray microcalorimeter",
+"authors": "D. A. Bennett, J. A. B. Mates, S. R. Bandler, et al.",
+"venue": "Journal of Astronomical Telescopes, Instruments, and Systems",
+"tag": "JATIS",
+"vol": "5 (2)",
+"doi": "https://doi.org/10.1117/1.JATIS.5.2.021007",
+"num": 108
+},
+{
+"year": 2019,
+"title": "Development of space-flight compatible room-temperature electronics for the Lynx x-ray microcalorimeter",
+"authors": "K. Sakai, J. S. Adams, S. R. Bandler, D. A. Bennett, K. D. Irwin,  Mate",
+"venue": "Journal of Astronomical Telescopes, Instruments, and Systems",
+"tag": "JATIS",
+"vol": "5 (2)",
+"doi": "https://doi.org/10.1117/1.JATIS.5.2.021013",
+"num": 110
+},
+{
+"year": 2019,
+"title": "Hybrid X-ray Spectroscopy-Based Approach To Acquire Chemical and Structural Information of Single-Walled Carbon Nanotubes with Superior Sensitivity",
+"authors": "S. Sainio, N. Wester, C. J. Titus, et al.",
+"venue": "Journal of Physical Chemistry C",
+"tag": "J. Phys. Chem. C",
+"vol": "123 (10): 6114\u201320",
+"doi": "https://doi.org/10.1021/acs.jpcc.9b00714",
+"num": 112
+},
+{
+"year": 2019,
+"title": "LiteBIRD: A Satellite for the Studies of B-Mode Polarization and Inflation from Cosmic Background Radiation Detection",
+"authors": "M. Hazumi, P. R. Ade, Y. Akiba, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 443\u201352",
+"doi": "https://doi.org/10.1007/s10909-019-02150-5",
+"num": 113
+},
+{
+"year": 2019,
+"title": "Mass Calibration of Optically Selected DES Clusters Using a Measurement of CMB-cluster Lensing with SPTpol Data",
+"authors": "S. Raghunathan, S. Patil, E. Baxter, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "872 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/ab01ca",
+"num": 114
+},
+{
+"year": 2019,
+"title": "The Simons Observatory: science goals and forecasts",
+"authors": "P. Ade, J. Aguirre, Z. Ahmed, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2019/02/056",
+"num": 115
+},
+{
+"year": 2019,
+"title": "Surface-to-Bulk Redox Coupling through Thermally Driven Li Redistribution in Li- and Mn-Rich Layered Cathode Materials",
+"authors": "Li, Lee S. n., Wang S. j., et al.",
+"venue": "Journal of the American Chemical Society",
+"tag": "JACS",
+"vol": "",
+"doi": "https://doi.org/10.1021/jacs.9b05349",
+"num": 116
+},
+{
+"year": 2019,
+"title": "Soft X-ray spectroscopy with transition-edge sensors at Stanford Synchrotron Radiation Lightsource beamline 10-1. The Review of scientific instruments",
+"authors": "S. J. Lee, C. J. Titus, Alonso Mori, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "90 (11): 113101",
+"doi": "https://doi.org/10.1063/1.5119155",
+"num": 118
+},
+{
+"year": 2018,
+"title": "TES X-ray Spectrometer at SLAC LCLS-II",
+"authors": "D. Li, B. K. Alpert, D. T. Becker, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 1287\u201397",
+"doi": "https://doi.org/10.1007/s10909-018-2053-6",
+"num": 119
+},
+{
+"year": 2018,
+"title": "HAWC+, the Far-Infrared Camera and Polarimeter for SOFIA",
+"authors": "D. A. Harper, M. C. Runyan, C. Dowell, et al.",
+"venue": "Journal of Astronomical Instrumentation",
+"tag": "J. Astron. Instrum.",
+"vol": "7 (4)",
+"doi": "https://doi.org/10.1142/S2251171718400081",
+"num": 120
+},
+{
+"year": 2018,
+"title": "The LiteBIRD Satellite Mission: Sub-Kelvin Instrument",
+"authors": "A. Suzuki, P. R. Ade, Y. Akiba, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 1048\u201356",
+"doi": "https://doi.org/10.1007/s10909-018-1947-7",
+"num": 121
+},
+{
+"year": 2018,
+"title": "Fabrication of Detector Arrays for the SPT-3G Receiver",
+"authors": "C. M. Posada, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 703\u201311",
+"doi": "https://doi.org/10.1007/s10909-018-1924-1",
+"num": 122
+},
+{
+"year": 2018,
+"title": "SPT-3G: A Multichroic Receiver for the South Pole Telescope",
+"authors": "A. J. Anderson, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 1057\u201365",
+"doi": "https://doi.org/10.1007/s10909-018-2007-z",
+"num": 123
+},
+{
+"year": 2018,
+"title": "Thermal Links and Microstrip Transmission Lines in SPT-3G Bolometers",
+"authors": "J. Ding, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 712\u201319",
+"doi": "https://doi.org/10.1007/s10909-018-1907-2",
+"num": 124
+},
+{
+"year": 2018,
+"title": "Design and Bolometer Characterization of the SPT-3G First-Year Focal Plane",
+"authors": "W. Everett, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 1085\u201393",
+"doi": "https://doi.org/10.1007/s10909-018-2057-2",
+"num": 125
+},
+{
+"year": 2018,
+"title": "Tuning SPT-3G Transition-Edge-Sensor Electrical Properties with a Four-Layer Ti-Au-Ti-Au Thin-Film-Stack",
+"authors": "F. W. Carter, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 695\u2013702",
+"doi": "https://doi.org/10.1007/s10909-018-1910-7",
+"num": 126
+},
+{
+"year": 2018,
+"title": "280 GHz Focal Plane Unit Design and Characterization for the SPIDER-2 Suborbital Polarimeter",
+"authors": "A. S. Bergman, P. R. Ade, S. Akers, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 1075\u201384",
+"doi": "https://doi.org/10.1007/s10909-018-2065-2",
+"num": 127
+},
+{
+"year": 2018,
+"title": "Concept Study of Optical Configurations for High-Frequency Telescope for LiteBIRD",
+"authors": "T. Hasebe, S. Kashima, P. R. Ade, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 841\u201350",
+"doi": "https://doi.org/10.1007/s10909-018-1915-2",
+"num": 128
+},
+{
+"year": 2018,
+"title": "SPIDER: CMB Polarimetry from the Edge of Space",
+"authors": "R. Gualtieri, J. P. Filippini, P. R. Ade, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 1112\u201321",
+"doi": "https://doi.org/10.1007/s10909-018-2078-x",
+"num": 129
+},
+{
+"year": 2018,
+"title": "Impact of Electrical Contacts Design and Materials on the Stability of Ti Superconducting Transition Shape",
+"authors": "V. Yefremenko, P. A. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "193 (5-6): 732\u201338",
+"doi": "https://doi.org/10.1007/s10909-018-2040-y",
+"num": 130
+},
+{
+"year": 2018,
+"title": "Constraints on Primordial Gravitational Waves Using Planck, WMAP, and New BICEP2/Keck Observations through the 2015 Season",
+"authors": "P. A. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "121 (22): 221301",
+"doi": "https://doi.org/10.1103/PhysRevLett.121.221301",
+"num": 131
+},
+{
+"year": 2018,
+"title": "The EBEX Balloon-borne Experiment-Detectors and Readout",
+"authors": "M. Abitbol, A. M. Aboobaker, P. Ade, et al.",
+"venue": "Astrophysical Journal Supplement Series",
+"tag": "ApJS",
+"vol": "239 (1)",
+"doi": "https://doi.org/10.3847/1538-4365/aae436",
+"num": 133
+},
+{
+"year": 2018,
+"title": "Design and Assembly of SPT-3G Cold Readout Hardware",
+"authors": "J. S. Avva, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 547\u201355",
+"doi": "https://doi.org/10.1007/s10909-018-1965-5",
+"num": 134
+},
+{
+"year": 2018,
+"title": "Optical Characterization of the SPT-3G Camera",
+"authors": "Z. Pan, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 305\u201313",
+"doi": "https://doi.org/10.1007/s10909-018-1935-y",
+"num": 135
+},
+{
+"year": 2018,
+"title": "A Spread-Spectrum SQUID Multiplexer",
+"authors": "K. D. Irwin, S. Chaudhuri, H. Cho, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 476\u201384",
+"doi": "https://doi.org/10.1007/s10909-018-1987-z",
+"num": 136
+},
+{
+"year": 2018,
+"title": "Error-Correcting Codes for Code-Division Multiplexed TES Detectors",
+"authors": "C. J. Titus, S. Chaudhuri, H. Cho, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 556\u201361",
+"doi": "https://doi.org/10.1007/s10909-018-1979-z",
+"num": 137
+},
+{
+"year": 2018,
+"title": "SLAC Microresonator Radio Frequency (SMuRF) Electronics for Read Out of Frequency-Division-Multiplexed Cryogenic Sensors",
+"authors": "S. A. Kernasovskiy, S. E. Kuenstner, E. Karpel, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 570\u201377",
+"doi": "https://doi.org/10.1007/s10909-018-1981-5",
+"num": 138
+},
+{
+"year": 2018,
+"title": "Development of Multi-chroic MKIDs for Next-Generation CMB Polarization Studies",
+"authors": "B. R. Johnson, D. Flanigan, M. H. Abitbol, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 103\u201312",
+"doi": "https://doi.org/10.1007/s10909-018-2032-y",
+"num": 139
+},
+{
+"year": 2018,
+"title": "Magnetic Sensitivity of AlMn TESes and Shielding Considerations for Next-Generation CMB Surveys",
+"authors": "E. M. Vavagiakis, S. W. Henderson, K. Zheng, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 288\u201397",
+"doi": "https://doi.org/10.1007/s10909-018-1920-5",
+"num": 140
+},
+{
+"year": 2018,
+"title": "Results from the Atacama B-mode Search (ABS) experiment",
+"authors": "A. Kusaka, J. Appel, T. Essinger-Hileman, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2018/09/005",
+"num": 141
+},
+{
+"year": 2018,
+"title": "REVIEW OF PARTICLE PHYSICS Particle Data Group",
+"authors": "M. Tanabashi, P. Grp, K. Hagiwara, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "98 (3)",
+"doi": "https://doi.org/10.1103/PhysRevD.98.030001",
+"num": 142
+},
+{
+"year": 2018,
+"title": "Measurements of the Temperature and E-mode Polarization of the CMB from 500 Square Degrees of SPTpol Data",
+"authors": "J. W. Henning, J. T. Sayre, C. L. Reichardt, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "852 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/aa9ff4",
+"num": 143
+},
+{
+"year": 2018,
+"title": "Highly-multiplexed microwave SQUID readout using the SLAC Microresonator Radio Frequency (SMuRF) Electronics for Future CMB and Sub-millimeter Surveys",
+"authors": "S. W. Henderson, Z. Ahmed, J. Austermann, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2314435",
+"num": 144
+},
+{
+"year": 2018,
+"title": "BICEP Array: a multi-frequency degree-scale CMB polarimeter",
+"authors": "H. Hui, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2311725",
+"num": 145
+},
+{
+"year": 2018,
+"title": "Prime-Cam: A first-light instrument for the CCAT-prime telescope",
+"authors": "E. M. Vavagiakis, Z. Ahmed, A. Ali, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2313868",
+"num": 146
+},
+{
+"year": 2018,
+"title": "Design and performance of wide-band corrugated walls for the BICEP Array detector modules at 30/40 GHz",
+"authors": "A. Soliman, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2312942",
+"num": 147
+},
+{
+"year": 2018,
+"title": "Broadband anti-reflective coatings for cosmic microwave background experiments",
+"authors": "A. Nadolski, A. M. Kofman, J. D. Vieira, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2315674",
+"num": 148
+},
+{
+"year": 2018,
+"title": "The Primordial Inflation Polarization Explorer (PIPER): Current Status and Performance of the First Flight",
+"authors": "S. Pawlyk, P. A. R. Ade, D. Benford, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2313874",
+"num": 149
+},
+{
+"year": 2018,
+"title": "2017 upgrade and performance of BICEP3: a 95GHz refracting telescope for degree-scale CMB polarization",
+"authors": "J. Kang, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2313854",
+"num": 150
+},
+{
+"year": 2017,
+"title": "L-edge spectroscopy of dilute, radiation-sensitive systems using a transition-edge-sensor array",
+"authors": "C. J. Titus, M. L. Baker, S. Lee, et al.",
+"venue": "Journal of Chemical Physics",
+"tag": "J. Chem. Phys.",
+"vol": "147 (21): 214201",
+"doi": "https://doi.org/10.1063/1.5000755",
+"num": 156
+},
+{
+"year": 2017,
+"title": "BICEP2 / Keck Array IX: New bounds on anisotropies of CMB polarization rotation and implications for axionlike particles and primordial magnetic fields",
+"authors": "P. R. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "96 (10)",
+"doi": "https://doi.org/10.1103/PhysRevD.96.102003",
+"num": 157
+},
+{
+"year": 2017,
+"title": "CMB Polarization B-mode Delensing with SPTpol and Herschel",
+"authors": "A. Manzotti, K. T. Story, W. K. Wu, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "846 (1)",
+"doi": "https://doi.org/10.3847/1538-4357/aa82bb",
+"num": 158
+},
+{
+"year": 2017,
+"title": "A New Limit on CMB Circular Polarization from SPIDER",
+"authors": "J. M. Nagy, P. R. Ade, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "844 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/aa7cfd",
+"num": 159
+},
+{
+"year": 2017,
+"title": "The Atacama Cosmology Telescope: two-season ACTPol spectra and parameters",
+"authors": "T. Louis, E. Grace, M. Hasselfield, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2017/06/031",
+"num": 160
+},
+{
+"year": 2017,
+"title": "Optimization of Transition Edge Sensor Arrays for Cosmic Microwave Background Observations With the South Pole Telescope",
+"authors": "J. Ding, P. A. Ade, A. J. Anderson, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "27 (4)",
+"doi": "https://doi.org/10.1109/TASC.2016.2639378",
+"num": 161
+},
+{
+"year": 2017,
+"title": "High quality factor manganese-doped aluminum lumped-element kinetic inductance detectors sensitive to frequencies below 100 GHz",
+"authors": "G. Jones, B. R. Johnson, M. H. Abitbol, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "110 (22)",
+"doi": "https://doi.org/10.1063/1.4984105",
+"num": 162
+},
+{
+"year": 2017,
+"title": "Broadband parametric amplifiers based on nonlinear kinetic inductance artificial transmission lines",
+"authors": "S. Chaudhuri, D. Li, K. D. Irwin, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "110 (15)",
+"doi": "https://doi.org/10.1063/1.4980102",
+"num": 163
+},
+{
+"year": 2017,
+"title": "Cosmological parameters from pre-Planck CMB measurements: A 2017 update",
+"authors": "E. Calabrese, R. A. Hlozek, J. R. Bond, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "95 (6)",
+"doi": "https://doi.org/10.1103/PhysRevD.95.063525",
+"num": 164
+},
+{
+"year": 2017,
+"title": "Detection of the pairwise kinematic Sunyaev-Zel'dovich effect with BOSS DR11 and the Atacama Cosmology Telescope",
+"authors": "F. De Bernardis, S. Aiola, E. M. Vavagiakis, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2017/03/008",
+"num": 165
+},
+{
+"year": 2016,
+"title": "Bicep2/keck array viii: measurement of gravitational lensing from large-scale b-mode polarization",
+"authors": "P. A. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "833 (2)",
+"doi": "https://doi.org/10.3847/1538-4357/833/2/228",
+"num": 166
+},
+{
+"year": 2016,
+"title": "THE ATACAMA COSMOLOGY TELESCOPE: THE POLARIZATION-SENSITIVE ACTPol INSTRUMENT",
+"authors": "R. J. Thornton, P. A. Ade, S. Aiola, et al.",
+"venue": "Astrophysical Journal Supplement Series",
+"tag": "ApJS",
+"vol": "227 (2)",
+"doi": "https://doi.org/10.3847/1538-4365/227/2/21",
+"num": 167
+},
+{
+"year": 2016,
+"title": "MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY",
+"authors": "N. Whitehorn, T. Natoli, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "830 (2)",
+"doi": "https://doi.org/10.3847/0004-637X/830/2/143",
+"num": 168
+},
+{
+"year": 2016,
+"title": "REVIEW OF PARTICLE PHYSICS Particle Data Group",
+"authors": "C. Patrignani, K. Agashe, G. Aielli, et al.",
+"venue": "Chinese Physics C",
+"tag": "Chin. Phys. C",
+"vol": "40 (10)",
+"doi": "https://doi.org/10.1088/1674-1137/40/10/100001",
+"num": 169
+},
+{
+"year": 2016,
+"title": "Code-division-multiplexed readout of large arrays of TES microcalorimeters",
+"authors": "K. M. Morgan, B. K. Alpert, D. A. Bennett, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "109 (11)",
+"doi": "https://doi.org/10.1063/1.4962636",
+"num": 170
+},
+{
+"year": 2016,
+"title": "Initial Performance of Bicep3: A Degree Angular Scale 95 GHz Band Polarimeter",
+"authors": "W. L. Wu, P. A. Ade, Z. Ahmed, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (3-4): 765-771",
+"doi": "https://doi.org/10.1007/s10909-015-1403-x",
+"num": 171
+},
+{
+"year": 2016,
+"title": "LiteBIRD: Mission Overview and Focal Plane Layout",
+"authors": "T. Matsumura, Y. Akiba, K. Arnold, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (3-4): 824-831",
+"doi": "https://doi.org/10.1007/s10909-016-1542-8",
+"num": 172
+},
+{
+"year": 2016,
+"title": "Performance of Backshort-Under-Grid Kilopixel TES Arrays for HAWC",
+"authors": "J. G. Staguhn, D. J. Benford, C. D. Dowell, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (3-4): 811-815",
+"doi": "https://doi.org/10.1007/s10909-016-1509-9",
+"num": 173
+},
+{
+"year": 2016,
+"title": "Superconducting Pathways Through Kilopixel Backshort-Under-Grid Arrays",
+"authors": "C. A. Jhabvala, D. J. Benford, R. P. Brekosky, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (3-4): 615-620",
+"doi": "https://doi.org/10.1007/s10909-016-1487-y",
+"num": 174
+},
+{
+"year": 2016,
+"title": "Advanced ACTPol Cryogenic Detector Arrays and Readout",
+"authors": "S. W. Henderson, R. Allison, J. Austermann, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (3-4): 772-779",
+"doi": "https://doi.org/10.1007/s10909-016-1575-z",
+"num": 175
+},
+{
+"year": 2016,
+"title": "Development of a Microwave SQUID-Multiplexed TES Array for MUSTANG-2",
+"authors": "S. M. Stanchfield, P. A. Ade, J. Aguirre, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (1-2): 460-465",
+"doi": "https://doi.org/10.1007/s10909-016-1570-4",
+"num": 176
+},
+{
+"year": 2016,
+"title": "Developments in Time-Division Multiplexing of X-ray Transition-Edge Sensors",
+"authors": "W. B. Doriese, K. M. Morgan, D. A. Bennett, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (1): 389-395",
+"doi": "https://doi.org/10.1007/s10909-015-1373-z",
+"num": 177
+},
+{
+"year": 2016,
+"title": "Bicep2/keck array. vii. matrix based e/b separation applied to bicep2 and the keck array",
+"authors": "P. A. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "825 (1)",
+"doi": "https://doi.org/10.3847/0004-637X/825/1/66",
+"num": 179
+},
+{
+"year": 2016,
+"title": "Optical Demonstration of THz, Dual-Polarization Sensitive Microwave Kinetic Inductance Detectors",
+"authors": "B. Dober, J. A. Austermann, J. A. Beall, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "184 (1-2): 173-179",
+"doi": "https://doi.org/10.1007/s10909-015-1434-3",
+"num": 180
+},
+{
+"year": 2016,
+"title": "Evidence for the kinematic Sunyaev-Zel'dovich effect with the Atacama Cosmology Telescope and velocity reconstruction from the Baryon Oscillation Spectroscopic Survey",
+"authors": "E. Schaan, S. Ferraro, M. Vargas-Magana, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "93 (8)",
+"doi": "https://doi.org/10.1103/PhysRevD.93.082002",
+"num": 182
+},
+{
+"year": 2016,
+"title": "In Situ Time Constant and Optical Efficiency Measurements of TRUCE Pixels in the Atacama B-Mode Search (vol 176, pg 712, 2014)",
+"authors": "S. M. Simon, J. W. Appel, H. M. Cho, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "182 (3-4): 139",
+"doi": "https://doi.org/10.1007/s10909-015-1354-2",
+"num": 183
+},
+{
+"year": 2016,
+"title": "Improved Constraints on Cosmology and Foregrounds from BICEP2 and Keck Array Cosmic Microwave Background Data with Inclusion of 95 GHz Band",
+"authors": "P. A. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "116 (3): 031302",
+"doi": "https://doi.org/10.1103/PhysRevLett.116.031302",
+"num": 184
+},
+{
+"year": 2016,
+"title": "A cryogenic rotation stage with a large clear aperture for the half-wave plates in the Spider instrument",
+"authors": "S. Bryan, P. Ade, M. Amiri, et al.",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "87 (1): 014501",
+"doi": "https://doi.org/10.1063/1.4939435",
+"num": 186
+},
+{
+"year": 2016,
+"title": "Optical characterization of the BICEP3 CMB polarimeter at the South Pole",
+"authors": "K. S. Karkare, P. R. Ade, Z. Ahmed, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2231747",
+"num": 187
+},
+{
+"year": 2016,
+"title": "Systematics of an ambient-temperature, rapidly-rotating half-wave plate",
+"authors": "T. Essinger-Hileman, A. Kusaka, J. W. Appel, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2232711",
+"num": 188
+},
+{
+"year": 2016,
+"title": "Transition-edge sensor pixel parameter design of the microcalorimeter array for the X-ray Integral Field Unit on Athena",
+"authors": "S. J. Smith, J. S. Adams, S. R. Bandler, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2231749",
+"num": 189
+},
+{
+"year": 2016,
+"title": "Instrumental performance and results from testing of the BLAST-TNG receiver, submillimeter optics, and MKID detector arrays",
+"authors": "N. Galitzki, P. Ade, F. E. Angile, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2231167",
+"num": 190
+},
+{
+"year": 2016,
+"title": "Readout of two-kilopixel transition-edge sensor arrays for Advanced ACTPol",
+"authors": "S. W. Henderson, J. R. Stevens, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2233895",
+"num": 191
+},
+{
+"year": 2016,
+"title": "The Primordial Inflation Polarization Explorer (PIPER)",
+"authors": "N. N. Gandilo, P. A. R. Ade, D. Benford, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2231109",
+"num": 192
+},
+{
+"year": 2016,
+"title": "Optical modeling and polarization calibration for CMB measurements with ACTPol and Advanced ACTPol",
+"authors": "B. Koopman, J. Austermann, H. Cho, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2231912",
+"num": 193
+},
+{
+"year": 2016,
+"title": "Polarization Sensitive Multi-Chroic MKIDs",
+"authors": "B. R. Johnson, D. Flanigan, M. H. Abitbol, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2233243",
+"num": 194
+},
+{
+"year": 2016,
+"title": "Development of x-ray microcalorimeter imaging spectrometers for the X-ray Surveyor mission concept",
+"authors": "S. R. Bandler, J. S. Adams, J. A. Chervenak, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2232156",
+"num": 195
+},
+{
+"year": 2016,
+"title": "Large arrays of dual-polarized multichroic TES detectors for CMB measurements with the SPT-3G receiver",
+"authors": "C. M. Posada, P. A. R. Ade, A. J. Anderson, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2232912",
+"num": 196
+},
+{
+"year": 2015,
+"title": "Bicep2. III. instrumental systematics",
+"authors": "P. A. Ade, R. W. Aikin, D. Barkats, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "814 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/814/2/110",
+"num": 201
+},
+{
+"year": 2015,
+"title": "The thermal design, characterization, and performance of the SPIDER long-duration balloon cryostat",
+"authors": "J. E. Gudmundsson, P. A. Ade, M. Amiri, et al.",
+"venue": "Cryogenics",
+"tag": "Cryogenics",
+"vol": "72: 65-76",
+"doi": "https://doi.org/10.1016/j.cryogenics.2015.09.002",
+"num": 202
+},
+{
+"year": 2015,
+"title": "ANTENNA-COUPLED TES BOLOMETERS USED IN BICEP2, Keck Array, AND SPIDER",
+"authors": "P. A. Ade, R. W. Aikin, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "812 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/812/2/176",
+"num": 203
+},
+{
+"year": 2015,
+"title": "Radio for hidden-photon dark matter detection",
+"authors": "S. Chaudhuri, P. W. Graham, K. Irwin, J. Mardon, S. Rajendran, Y. Zhao",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "92 (7)",
+"doi": "https://doi.org/10.1103/PhysRevD.92.075012",
+"num": 204
+},
+{
+"year": 2015,
+"title": "BICEP2/KECK ARRAY V: MEASUREMENTS OF B-MODE POLARIZATION AT DEGREE ANGULAR SCALES AND 150 GHz BY THE KECK ARRAY",
+"authors": "P. A. Ade, Z. Ahmed, R. W. Aikin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "811 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/811/2/126",
+"num": 205
+},
+{
+"year": 2015,
+"title": "Fabrication of large dual-polarized multichroic TES bolometer arrays for CMB measurements with the SPT-3G camera",
+"authors": "C. M. Posada, P. A. Ade, Z. Ahmed, et al.",
+"venue": "Superconductor Science and Technology",
+"tag": "Supercond. Sci. Technol.",
+"vol": "28 (9)",
+"doi": "https://doi.org/10.1088/0953-2048/28/9/094002",
+"num": 206
+},
+{
+"year": 2015,
+"title": "A measurement of the cosmic microwave background gravitational lensing potential from 100 square degrees of sptpol data",
+"authors": "K. T. Story, D. Hanson, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "810 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/810/1/50",
+"num": 207
+},
+{
+"year": 2015,
+"title": "Measurements of sub-degree b-mode polarization in the cosmic microwave background from 100 square degrees of sptpol data",
+"authors": "R. Keisler, S. Hoover, N. Harrington, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "807 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/807/2/151",
+"num": 208
+},
+{
+"year": 2015,
+"title": "Bicep2/keck array. iv. optical characterization and performance of the bicep2 and keck array experiments",
+"authors": "P. A. Ade, R. W. Aikin, D. Barkats, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "806 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/806/2/206",
+"num": 209
+},
+{
+"year": 2015,
+"title": "Simulation and Analysis of Superconducting Traveling-Wave Parametric Amplifiers",
+"authors": "S. Chaudhuri, J. Gao, K. Irwin",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "25 (3)",
+"doi": "https://doi.org/10.1109/TASC.2014.2378059",
+"num": 210
+},
+{
+"year": 2015,
+"title": "Low Loss Superconducting Microstrip Development at Argonne National Lab",
+"authors": "C. L. Chang, P. A. Ade, Z. Ahmed, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "25 (3)",
+"doi": "https://doi.org/10.1109/TASC.2014.2369231",
+"num": 211
+},
+{
+"year": 2015,
+"title": "Measurements of e-mode polarization and temperature-e-mode correlation in the cosmic microwave background from 100 square degrees of sptpol data",
+"authors": "A. T. Crites, J. W. Henning, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "805 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/805/1/36",
+"num": 212
+},
+{
+"year": 2015,
+"title": "Generating and verifying entangled itinerant microwave fields with efficient and independent measurements",
+"authors": "H. S. Ku, W. F. Kindel, F. Mallet, et al.",
+"venue": "Physical Review A",
+"tag": "Phys. Rev. A",
+"vol": "91 (4)",
+"doi": "https://doi.org/10.1103/PhysRevA.91.042305",
+"num": 213
+},
+{
+"year": 2015,
+"title": "Neutrino physics from the cosmic microwave background and large scale structure",
+"authors": "K. N. Abazajian, K. Arnold, J. Austermann, et al.",
+"venue": "Astroparticle Physics",
+"tag": "Astropart. Phys.",
+"vol": "63: 66-80",
+"doi": "https://doi.org/10.1016/j.astropartphys.2014.05.014",
+"num": 214
+},
+{
+"year": 2015,
+"title": "Joint analysis of BICEP2/keck array and Planck Data",
+"authors": "P. A. Ade, N. Aghanim, Z. Ahmed, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "114 (10): 101301",
+"doi": "https://doi.org/10.1103/PhysRevLett.114.101301",
+"num": 215
+},
+{
+"year": 2015,
+"title": "Photon-noise limited sensitivity in titanium nitride kinetic inductance detectors",
+"authors": "J. Hubmayr, J. Beall, D. Becker, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "106 (7)",
+"doi": "https://doi.org/10.1063/1.4913418",
+"num": 217
+},
+{
+"year": 2014,
+"title": "Prototype Phantoms for Characterization of Ultralow Field Magnetic Resonance Imaging",
+"authors": "M. A. Boss, J. A. B. Mates, S. E. Busch, et al.",
+"venue": "Magnetic Resonance in Medicine",
+"tag": "Magn. Reson. Med.",
+"vol": "72 (6): 1793\u20131800",
+"doi": "https://doi.org/10.1002/mrm.25060",
+"num": 218
+},
+{
+"year": 2014,
+"title": "The Next Generation BLAST Experiment",
+"authors": "N. Galitzki, P. A. R. Ade, F. E. Angile, et al.",
+"venue": "Journal of Astronomical Instrumentation",
+"tag": "J. Astron. Instrum.",
+"vol": "3 (2)",
+"doi": "https://doi.org/10.1142/S2251171714400017",
+"num": 219
+},
+{
+"year": 2014,
+"title": "The Atacama Cosmology Telescope: CMB polarization at 200 < l < 9000",
+"authors": "S. Naess, M. Hasselfield, J. McMahon, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2014/10/007",
+"num": 220
+},
+{
+"year": 2014,
+"title": "Design and Expected Performance of GISMO-2, a Two Color Millimeter Camera for the IRAM 30 m Telescope",
+"authors": "J. Staguhn, D. Benford, E. Dwek, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 829\u201334",
+"doi": "https://doi.org/10.1007/s10909-014-1086-8",
+"num": 221
+},
+{
+"year": 2014,
+"title": "Horn Coupled Multichroic Polarimeters for the Atacama Cosmology Telescope Polarization Experiment",
+"authors": "R. Datta, J. Hubmayr, C. Munson, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 670\u201376",
+"doi": "https://doi.org/10.1007/s10909-014-1134-4",
+"num": 222
+},
+{
+"year": 2014,
+"title": "Characterization and Performance of a Kilo-TES Sub-Array for ACTPol",
+"authors": "E. A. Grace, J. Beall, H. M. Cho, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 705\u201311",
+"doi": "https://doi.org/10.1007/s10909-014-1125-5",
+"num": 223
+},
+{
+"year": 2014,
+"title": "Optical Efficiency and R(T,I) Measurements of ACTPol TESes Using Time Domain Multiplexing Electronics",
+"authors": "C. G. Pappas, J. Beall, J. Brevick, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 749\u201354",
+"doi": "https://doi.org/10.1007/s10909-013-1066-4",
+"num": 224
+},
+{
+"year": 2014,
+"title": "MUSTANG 2: A Large Focal Plane Array for the 100 m Green Bank Telescope",
+"authors": "S. R. Dicker, P. R. Ade, J. Aguirre, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 808\u201314",
+"doi": "https://doi.org/10.1007/s10909-013-1070-8",
+"num": 225
+},
+{
+"year": 2014,
+"title": "High-Resolution Kaonic-Atom X-ray Spectroscopy with Transition-Edge-Sensor Microcalorimeters",
+"authors": "S. Okada, D. A. Bennett, W. B. Doriese, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 1015\u201321",
+"doi": "https://doi.org/10.1007/s10909-014-1137-1",
+"num": 226
+},
+{
+"year": 2014,
+"title": "Bicep2. II. experiment and three-year data set",
+"authors": "P. A. Ade, R. W. Aikin, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "792 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/792/1/62",
+"num": 227
+},
+{
+"year": 2014,
+"title": "In Situ Time Constant and Optical Efficiency Measurements of TRUCE Pixels in the Atacama B-Mode Search",
+"authors": "S. M. Simon, J. W. Appel, H. M. Cho, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (5-6): 712-718",
+"doi": "https://doi.org/10.1007/s10909-013-0999-y",
+"num": 228
+},
+{
+"year": 2014,
+"title": "Development of a Broadband NbTiN Traveling Wave Parametric Amplifier for MKID Readout",
+"authors": "C. Bockstiegel, J. Gao, M. R. Vissers, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (3-4): 476\u201382",
+"doi": "https://doi.org/10.1007/s10909-013-1042-z",
+"num": 229
+},
+{
+"year": 2014,
+"title": "Properties of TiN for Detector and Amplifier Applications",
+"authors": "J. Gao, M. R. Vissers, M. Sandberg, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (3-4): 136\u201341",
+"doi": "https://doi.org/10.1007/s10909-014-1089-5",
+"num": 230
+},
+{
+"year": 2014,
+"title": "A Study of Al-Mn Transition Edge Sensor Engineering for Stability",
+"authors": "E. M. George, J. E. Austermann, J. A. Beall, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (3-4): 383\u201391",
+"doi": "https://doi.org/10.1007/s10909-013-0994-3",
+"num": 231
+},
+{
+"year": 2014,
+"title": "Dual-Polarization-Sensitive Kinetic Inductance Detectors for Balloon-borne Sub-millimeter Polarimetry",
+"authors": "J. Hubmayr, J. A. Beall, D. Becker, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (3-4): 490\u201396",
+"doi": "https://doi.org/10.1007/s10909-014-1160-2",
+"num": 232
+},
+{
+"year": 2014,
+"title": "An Efficient Superconducting Transformer Design for SQUID Magnetometry",
+"authors": "J. B. Mates, K. D. Irwin, L. R. Vale, G. C. Hilton,  Cho",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "176 (3-4): 483\u201389",
+"doi": "https://doi.org/10.1007/s10909-014-1092-x",
+"num": 233
+},
+{
+"year": 2014,
+"title": "The gismo two-millimeter deep field in goods-n",
+"authors": "J. G. Staguhn, A. Kovacs, R. G. Arendt, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "790 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/790/1/77",
+"num": 234
+},
+{
+"year": 2014,
+"title": "Detection of B-Mode Polarization at Degree Angular Scales by BICEP2",
+"authors": "P. A. Ade, R. W. Aikin, D. Barkats, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "112 (24): 241101",
+"doi": "https://doi.org/10.1103/PhysRevLett.112.241101",
+"num": 235
+},
+{
+"year": 2014,
+"title": "The Atacama Cosmology Telescope: temperature and gravitational lensing power spectrum measurements from three seasons of data",
+"authors": "S. Das, T. Louis, M. R. Nolta, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2014/04/014",
+"num": 236
+},
+{
+"year": 2014,
+"title": "The Atacama Cosmology Telescope: dusty star-forming galaxies and active galactic nuclei in the Southern survey",
+"authors": "D. Marsden, M. Gralla, T. A. Marriage, et al.",
+"venue": "Monthly Notices of the Royal Astronomical Society",
+"tag": "MNRAS",
+"vol": "439 (2): 1556\u201374",
+"doi": "https://doi.org/10.1093/mnras/stu001",
+"num": 237
+},
+{
+"year": 2014,
+"title": "Modulation of cosmic microwave background polarization with a warm rapidly rotating half-wave plate on the Atacama B-Mode Search instrument (vol 85, 024501, 2014)",
+"authors": "A. Kusaka, T. Essinger-Hileman, J. W. Appel, et al.",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "85 (3)",
+"doi": "https://doi.org/10.1063/1.4867655",
+"num": 238
+},
+{
+"year": 2014,
+"title": "THE SECOND-GENERATION z (REDSHIFT) AND EARLY UNIVERSE SPECTROMETER. I. FIRST-LIGHT OBSERVATION OF A HIGHLY LENSED LOCAL-ULIRG ANALOG AT HIGH-z",
+"authors": "C. Ferkinhoff, D. Brisbin, S. Parshley, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "780 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/780/2/142",
+"num": 240
+},
+{
+"year": 2014,
+"title": "The transition-edge EBIT microcalorimeter spectrometer",
+"authors": "G. L. Betancourt-Martinez, J. Adams, S. Bandler, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2055568",
+"num": 241
+},
+{
+"year": 2014,
+"title": "The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX)",
+"authors": "K. MacDermid, A. M. Aboobaker, P. Ade, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056267",
+"num": 242
+},
+{
+"year": 2014,
+"title": "The Primordial Inflation Polarization Explorer (PIPER)",
+"authors": "J. Lazear, P. A. R. Ade, D. Benford, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056806",
+"num": 243
+},
+{
+"year": 2014,
+"title": "CLASS: The cosmology Large Angular Scale Surveyor",
+"authors": "T. Essinger-Hileman, A. Ali, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056701",
+"num": 244
+},
+{
+"year": 2014,
+"title": "The Cosmology Large Angular Scale Surveyor (CLASS): 38-GHz detector array of bolometric polarimeters",
+"authors": "J. W. Appel, A. Ali, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056530",
+"num": 245
+},
+{
+"year": 2014,
+"title": "Kilopixel Backshort-Under-Grid arrays for the Primordial Inflation Polarization Explorer",
+"authors": "C. A. Jhabvala, D. J. Benford, R. P. Brekosky, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056995",
+"num": 246
+},
+{
+"year": 2014,
+"title": "MUSTANG 2-a large focal plane array for the 100 meter Green Bank Telescope",
+"authors": "S. R. Dicker, P. R. Ade, J. Aguirre, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056455",
+"num": 247
+},
+{
+"year": 2014,
+"title": "Characterization of the Atacama B-Mode Search",
+"authors": "S. M. Simon, S. Raghunathan, J. W. Appel, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2055576",
+"num": 248
+},
+{
+"year": 2014,
+"title": "Pointing control for the SPIDER balloon-borne telescope",
+"authors": "J. A. Shariff, P. A. Ade, M. Amiri, et al.",
+"venue": "Conference on Ground-Based and Airborne Telescopes V",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2055166",
+"num": 249
+},
+{
+"year": 2014,
+"title": "Design and construction of a carbon fiber gondola for the SPIDER balloon-borne telescope",
+"authors": "J. D. Soler, P. A. Ade, M. Amiri, et al.",
+"venue": "Conference on Ground-Based and Airborne Telescopes V",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2055413",
+"num": 250
+},
+{
+"year": 2014,
+"title": "Attitude determination for balloon-borne experiments",
+"authors": "N. N. Gandilo, P. A. Ade, M. Amiri, et al.",
+"venue": "Conference on Ground-Based and Airborne Telescopes V",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2055156",
+"num": 251
+},
+{
+"year": 2014,
+"title": "BLASTbus electronics: general-purpose readout and control for balloon-borne experiments",
+"authors": "S. J. Benton, P. A. Ade, M. Amiri, et al.",
+"venue": "Conference on Ground-Based and Airborne Telescopes V",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056693",
+"num": 252
+},
+{
+"year": 2014,
+"title": "BICEP2 and Keck Array: upgrades and improved beam characterization",
+"authors": "I. Buder, P. A. Ade, Z. Ahmed, et al.",
+"venue": "Conference on Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VII",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2055713",
+"num": 253
+},
+{
+"year": 2014,
+"title": "Keck Array and BICEP3: Spectral Characterization of 5000+Detectors",
+"authors": "K. S. Karkare, P. A. Ade, Z. Ahmed, et al.",
+"venue": "Conference on Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VII",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2056779",
+"num": 254
+},
+{
+"year": 2014,
+"title": "Standoff passive video imaging at 350 GHz with 251 superconducting detectors",
+"authors": "D. Becker, C. Gentry, I. Smirnov, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.2050712",
+"num": 255
+},
+{
+"year": 2014,
+"title": "The Cosmology Large Angular Scale Surveyor (CLASS) Telescope Architecture",
+"authors": "D. T. Chuss, A. Ali, M. Amiri, et al.",
+"venue": null,
+"tag": "EuCAP 2014",
+"vol": "pp. 2583\u201387",
+"doi": "https://doi.org/10.1109/EuCAP.2014.6902349",
+"num": 256
+},
+{
+"year": 2013,
+"title": "Large-aperture wide-bandwidth antireflection-coated silicon lenses for millimeter wavelengths",
+"authors": "R. Datta, C. D. Munson, M. D. Niemack, et al.",
+"venue": "Applied Optics",
+"tag": "Appl. Opt.",
+"vol": "52 (36): 8747\u201358",
+"doi": "https://doi.org/10.1364/AO.52.008747",
+"num": 262
+},
+{
+"year": 2013,
+"title": "High-resolution gamma-ray spectroscopy with a microwave-multiplexed transition-edge sensor array",
+"authors": "O. Noroozian, J. A. B. Mates, D. A. Bennett, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "103 (20)",
+"doi": "https://doi.org/10.1063/1.4829156",
+"num": 263
+},
+{
+"year": 2013,
+"title": "The Atacama Cosmology Telescope: the stellar content of galaxy clusters selected using the Sunyaev-Zel'dovich effect",
+"authors": "M. Hilton, M. Hasselfield, C. Sifon, et al.",
+"venue": "Monthly Notices of the Royal Astronomical Society",
+"tag": "MNRAS",
+"vol": "435 (4): 3469\u201380",
+"doi": "https://doi.org/10.1093/mnras/stt1535",
+"num": 264
+},
+{
+"year": 2013,
+"title": "The Atacama Cosmology Telescope: cosmological parameters from three seasons of data",
+"authors": "J. L. Sievers, R. A. Hlozek, M. R. Nolta, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2013/10/060",
+"num": 265
+},
+{
+"year": 2013,
+"title": "Detection of B-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",
+"authors": "D. Hanson, S. Hoover, A. Crites, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "111 (14)",
+"doi": "https://doi.org/10.1103/PhysRevLett.111.141301",
+"num": 266
+},
+{
+"year": 2013,
+"title": "The Atacama Cosmology Telescope: Sunyaev-Zel'dovich selected galaxy clusters at 148 GHz from three seasons of data",
+"authors": "M. Hasselfield, M. Hilton, T. A. Marriage, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2013/07/008",
+"num": 267
+},
+{
+"year": 2013,
+"title": "The Atacama Cosmology Telescope: likelihood for small-scale CMB data",
+"authors": "J. Dunkley, E. Calabrese, J. Sievers, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2013/07/025",
+"num": 268
+},
+{
+"year": 2013,
+"title": "Proximity-coupled Ti/TiN multilayers for use in kinetic inductance detectors",
+"authors": "M. R. Vissers, J. Gao, M. Sandberg, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "102 (23)",
+"doi": "https://doi.org/10.1063/1.4804286",
+"num": 269
+},
+{
+"year": 2013,
+"title": "Design and Performance of Kilo-Pixel TES Arrays for ACTPol",
+"authors": "E. A. Grace, J. A. Beall, J. Britton, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "23 (3)",
+"doi": "https://doi.org/10.1109/TASC.2013.2242191",
+"num": 270
+},
+{
+"year": 2013,
+"title": "Design and Fabrication of 90 GHz TES Polarimeter Detectors for the South Pole Telescope",
+"authors": "V. Yefremenko, P. Ade, K. Aird, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "23 (3)",
+"doi": "https://doi.org/10.1109/TASC.2012.2235892",
+"num": 271
+},
+{
+"year": 2013,
+"title": "Dual-Polarization Sensitive MKIDs for Far Infrared Astrophysics",
+"authors": "J. Hubmayr, J. Beall, D. Becker, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "23 (3)",
+"doi": "https://doi.org/10.1109/TASC.2012.2233857",
+"num": 272
+},
+{
+"year": 2013,
+"title": "Improvements in Silicon Oxide Dielectric Loss for Superconducting Microwave Detector Circuits",
+"authors": "D. Li, J. Gao, J. E. Austermann, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "23 (3)",
+"doi": "https://doi.org/10.1109/TASC.2013.2242951",
+"num": 273
+},
+{
+"year": 2013,
+"title": "Cosmological parameters from pre-planck cosmic microwave background measurements",
+"authors": "E. Calabrese, R. E. A. Hlozek, N. Battaglia, et al.",
+"venue": "Physical Review D",
+"tag": "Phys. Rev. D",
+"vol": "87 (10)",
+"doi": "https://doi.org/10.1103/PhysRevD.87.103012",
+"num": 274
+},
+{
+"year": 2013,
+"title": "Magnetic Flux Noise in dc SQUIDs: Temperature and Geometry Dependence",
+"authors": "S. M. Anton, J. S. Birenbaum, S. R. O'Kelley, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "110 (14): 147002",
+"doi": "https://doi.org/10.1103/PhysRevLett.110.147002",
+"num": 275
+},
+{
+"year": 2013,
+"title": "SCUBA-2: the 10 000 pixel bolometer camera on the James Clerk Maxwell Telescope",
+"authors": "W. S. Holland, D. Bintley, E. L. Chapin, et al.",
+"venue": "Monthly Notices of the Royal Astronomical Society",
+"tag": "MNRAS",
+"vol": "430 (4): 2513\u201333",
+"doi": "https://doi.org/10.1093/mnras/sts612",
+"num": 276
+},
+{
+"year": 2013,
+"title": "SPIDER: probing the early Universe with a suborbital polarimeter",
+"authors": "A. A. Fraisse, P. A. Ade, M. Amiri, et al.",
+"venue": "Journal of Cosmology and Astroparticle Physics",
+"tag": "JCAP",
+"vol": "",
+"doi": "https://doi.org/10.1088/1475-7516/2013/04/047",
+"num": 277
+},
+{
+"year": 2013,
+"title": "Table-Top Ultrafast X-Ray Microcalorimeter Spectrometry for Molecular Structure",
+"authors": "J. Uhlig, W. Fullagar, J. N. Ullom, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "110 (13): 138302",
+"doi": "https://doi.org/10.1103/PhysRevLett.110.138302",
+"num": 278
+},
+{
+"year": 2013,
+"title": "The atacama cosmology telescope: data characterization and mapmaking",
+"authors": "R. Duenner, M. Hasselfield, T. A. Marriage, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "762 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/762/1/10",
+"num": 279
+},
+{
+"year": 2012,
+"title": "Current distribution and transition width in superconducting transition-edge sensors",
+"authors": "D. S. Swetz, D. A. Bennett, K. D. Irwin, D. R. Schmidt,  Ullom",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "101 (24)",
+"doi": "https://doi.org/10.1063/1.4771984",
+"num": 280
+},
+{
+"year": 2012,
+"title": "The MARE project: a new Re-187 neutrino mass experiment with sub eV sensitivity",
+"authors": "D. Schaeffer, F. Gatti, G. Gallinaro, et al.",
+"venue": null,
+"tag": null,
+"vol": "394",
+"doi": "https://doi.org/10.1016/j.nuclphysbps.2011.10.042",
+"num": 281
+},
+{
+"year": 2012,
+"title": "A titanium-nitride near-infrared kinetic inductance photon-counting detector and its anomalous electrodynamics",
+"authors": "J. Gao, M. R. Vissers, M. O. Sandberg, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "101 (14)",
+"doi": "https://doi.org/10.1063/1.4756916",
+"num": 282
+},
+{
+"year": 2012,
+"title": "ORIGIN: metal creation and evolution from the cosmic dawn",
+"authors": "J. den Herder, L. Piro, T. Ohashi, et al.",
+"venue": "Experimental Astronomy",
+"tag": "Exp. Astron.",
+"vol": "34 (2): 519-549",
+"doi": "https://doi.org/10.1007/s10686-011-9224-7",
+"num": 283
+},
+{
+"year": 2012,
+"title": "A high resolution gamma-ray spectrometer based on superconducting microcalorimeters",
+"authors": "D. A. Bennett, R. D. Horansky, D. R. Schmidt, et al.",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "83 (9): 093113",
+"doi": "https://doi.org/10.1063/1.4754630",
+"num": 284
+},
+{
+"year": 2012,
+"title": "Evidence of Galaxy Cluster Motions with the Kinematic Sunyaev-Zel'dovich Effect",
+"authors": "N. Hand, G. E. Addison, E. Aubourg, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "109 (4)",
+"doi": "https://doi.org/10.1103/PhysRevLett.109.041101",
+"num": 285
+},
+{
+"year": 2012,
+"title": "Pure dephasing in flux qubits due to flux noise with spectral density scaling as 1/f(alpha)",
+"authors": "S. M. Anton, C. Mueller, J. S. Birenbaum, et al.",
+"venue": "Physical Review B",
+"tag": "Phys. Rev. B",
+"vol": "85 (22)",
+"doi": "https://doi.org/10.1103/PhysRevB.85.224505",
+"num": 286
+},
+{
+"year": 2012,
+"title": "An All Silicon Feedhorn-Coupled Focal Plane for Cosmic Microwave Background Polarimetry",
+"authors": "J. Hubmayr, J. W. Appel, J. E. Austermann, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 904-910",
+"doi": "https://doi.org/10.1007/s10909-011-0420-7",
+"num": 287
+},
+{
+"year": 2012,
+"title": "Optical and Thermal Properties of ANL/KICP Polarization Sensitive Bolometers for SPTpol",
+"authors": "C. L. Chang, P. Ade, K. Aird, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 865-871",
+"doi": "https://doi.org/10.1007/s10909-012-0491-0",
+"num": 288
+},
+{
+"year": 2012,
+"title": "Multi-chroic Feed-Horn Coupled TES Polarimeters",
+"authors": "J. McMahon, J. Beall, D. Becker, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 879\u201384",
+"doi": "https://doi.org/10.1007/s10909-012-0612-9",
+"num": 289
+},
+{
+"year": 2012,
+"title": "Optimization and Analysis of Code-Division Multiplexed TES Microcalorimeters",
+"authors": "J. W. Fowler, W. B. Doriese, G. Hilton, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 713\u201320",
+"doi": "https://doi.org/10.1007/s10909-012-0463-4",
+"num": 290
+},
+{
+"year": 2012,
+"title": "Optimizing Feedhorn-Coupled TES Polarimeters for Balloon and Space-Based CMB Observations",
+"authors": "M. D. Niemack, J. Beall, D. Becker, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 917\u201322",
+"doi": "https://doi.org/10.1007/s10909-012-0554-2",
+"num": 291
+},
+{
+"year": 2012,
+"title": "The Keck Array: A Multi Camera CMB Polarimeter at the South Pole",
+"authors": "Z. Staniszewski, R. W. Aikin, M. Amiri, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 827-833",
+"doi": "https://doi.org/10.1007/s10909-012-0510-1",
+"num": 292
+},
+{
+"year": 2012,
+"title": "Advanced Code-Division Multiplexers for Superconducting Detector Arrays",
+"authors": "K. D. Irwin, H. M. Cho, W. B. Doriese, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 588\u201394",
+"doi": "https://doi.org/10.1007/s10909-012-0586-7",
+"num": 293
+},
+{
+"year": 2012,
+"title": "Optimization of the TES-Bias Circuit for a Multiplexed Microcalorimeter Array",
+"authors": "W. B. Doriese, B. K. Alpert, J. W. Fowler, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 595\u2013601",
+"doi": "https://doi.org/10.1007/s10909-012-0509-7",
+"num": 294
+},
+{
+"year": 2012,
+"title": "Flux-Ramp Modulation for SQUID Multiplexing",
+"authors": "J. B. Mates, K. D. Irwin, L. R. Vale, G. C. Hilton, J. Gao,  Lehnert",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 707\u201312",
+"doi": "https://doi.org/10.1007/s10909-012-0518-6",
+"num": 295
+},
+{
+"year": 2012,
+"title": "SuperCDMS Cold Hardware Design JOURNAL OF LOW TEMPERATURE PHYSICS Al",
+"authors": "S. Kenany, J. A. Rolla, G. Godfrey, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "167 (5-6): 1167-1172",
+"doi": "https://doi.org/10.1007/s10909-012-0584-9",
+"num": 296
+},
+{
+"year": 2012,
+"title": "The atacama cosmology telescope: high-resolution sunyaev-zel'dovich array observations of ACT sze-selected clusters from the equatorial strip",
+"authors": "E. D. Reese, T. Mroczkowski, F. Menanteau, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "751 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/751/1/12",
+"num": 298
+},
+{
+"year": 2012,
+"title": "An 84 Pixel All-Silicon Corrugated Feedhorn for CMB Measurements",
+"authors": "J. P. Nibarger, J. A. Beall, D. Becker, et al.",
+"venue": "14th International Workshop on Low Temperature Particle Detection (LTD)",
+"tag": null,
+"vol": "pp. 522\u201327",
+"doi": "https://doi.org/10.1007/s10909-011-0428-z",
+"num": 299
+},
+{
+"year": 2012,
+"title": "Commissioning SCUBA-2 at JCMT and Optimising the Performance of the Superconducting TES Arrays",
+"authors": "D. Bintley, M. MacIntosh, W. Holland, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 152\u201360",
+"doi": "https://doi.org/10.1007/s10909-012-0601-z",
+"num": 300
+},
+{
+"year": 2012,
+"title": "Magnetically Coupled Microcalorimeters",
+"authors": "S. R. Bandler, K. D. Irwin, D. Kelly, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 254\u201368",
+"doi": "https://doi.org/10.1007/s10909-012-0544-4",
+"num": 301
+},
+{
+"year": 2012,
+"title": "The atacama cosmology telescope: a measurement of the primordial power spectrum",
+"authors": "R. Hlozek, J. Dunkley, G. Addison, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "749 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/749/1/90",
+"num": 302
+},
+{
+"year": 2012,
+"title": "Code-division multiplexing for x-ray microcalorimeters",
+"authors": "G. M. Stiehl, W. B. Doriese, J. W. Fowler, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "100 (7)",
+"doi": "https://doi.org/10.1063/1.3684807",
+"num": 303
+},
+{
+"year": 2012,
+"title": "CORRELATIONS IN THE (SUB) MILLIMETER BACKGROUND FROM ACT x BLAST",
+"authors": "A. Hajian, M. P. Viero, G. Addison, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "744 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/744/1/40",
+"num": 304
+},
+{
+"year": 2012,
+"title": "Optimization and sensitivity of the Keck Array",
+"authors": "S. Kernasovskiy, P. A. Ade, R. W. Aikin, et al.",
+"venue": "Conference on Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VI",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.926934",
+"num": 305
+},
+{
+"year": 2012,
+"title": "BICEP2 and Keck Array operational overview and status of observations",
+"authors": "R. W. Ogburn, P. A. Ade, R. W. Aikin, et al.",
+"venue": "Conference on Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VI",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.925731",
+"num": 306
+},
+{
+"year": 2012,
+"title": "Update on the Micro-X Sounding Rocket Payload",
+"authors": "E. Figueroa-Feliciano, J. S. Adams, R. Baker, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.927167",
+"num": 307
+},
+{
+"year": 2012,
+"title": "Scaling the summit of the submillimetre: instrument performance of SCUBA-2",
+"authors": "D. Bintley, M. J. MacIntosh, W. S. Holland, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.926613",
+"num": 308
+},
+{
+"year": 2012,
+"title": "Performance and on-sky optical characterization of the SPTpol instrument",
+"authors": "E. M. George, P. Ade, K. A. Aird, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.925586",
+"num": 309
+},
+{
+"year": 2012,
+"title": "SPTpol: an instrument for CMB polarization measurements with the South Pole Telescope",
+"authors": "J. E. Austermann, K. A. Aird, J. A. Beall, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.927286",
+"num": 310
+},
+{
+"year": 2012,
+"title": "Design and characterization of 90 GHz feedhorn-coupled TES polarimeter pixels in the SPTpol camera",
+"authors": "J. T. Sayre, P. Ade, K. A. Aird, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.927035",
+"num": 311
+},
+{
+"year": 2012,
+"title": "Feedhorn-Coupled TES Polarimeter Camera Modules at 150 GHz for CMB Polarization Measurements with SPTpol",
+"authors": "J. W. Henning, P. Ade, K. A. Aird, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.927172",
+"num": 312
+},
+{
+"year": 2012,
+"title": "South Pole Telescope Software Systems: Control, Monitoring, and Data Acquisition Conference On Software and Cyberinfrastructure for Astronomy II",
+"authors": "K. Story, E. Leitch, P. Ade, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.925808",
+"num": 313
+},
+{
+"year": 2012,
+"title": "Design and first-light performance of TES bolometer arrays for submillimeter spectroscopy with ZEUS-2",
+"authors": "C. Ferkinhoff, T. Nikola, S. C. Parshley, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.927237",
+"num": 314
+},
+{
+"year": 2012,
+"title": "The GISMO-2*Bolometer Camera",
+"authors": "J. G. Staguhn, D. J. Benford, D. J. Fixsen, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.927037",
+"num": 315
+},
+{
+"year": 2011,
+"title": "The atacama cosmology telescope: calibration with the wilkinson microwave anisotropy probe using cross-correlations",
+"authors": "A. Hajian, V. Acquaviva, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "740 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/740/2/86",
+"num": 316
+},
+{
+"year": 2011,
+"title": "Large microcalorimeter arrays for high-resolution X- and gamma-ray spectroscopy",
+"authors": "A. S. Hoover, N. Hoteling, M. W. Rabin, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "652 (1): 302\u20135",
+"doi": "https://doi.org/10.1016/j.nima.2010.09.154",
+"num": 317
+},
+{
+"year": 2011,
+"title": "The atacama cosmology telescope: cosmological parameters from the 2008 power spectrum",
+"authors": "J. Dunkley, R. Hlozek, J. Sievers, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "739 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/739/1/52",
+"num": 318
+},
+{
+"year": 2011,
+"title": "Spider optimization. II. optical, magnetic, and foreground effects",
+"authors": "D. T. O'Dea, P. A. Ade, M. Amiri, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "738 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/738/1/63",
+"num": 319
+},
+{
+"year": 2011,
+"title": "THE ATACAMA COSMOLOGY TELESCOPE: SUNYAEV-ZEL'DOVICH-SELECTED GALAXY CLUSTERS AT 148 GHz IN THE 2008 SURVEY",
+"authors": "T. A. Marriage, V. Acquaviva, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "737 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/737/2/61",
+"num": 320
+},
+{
+"year": 2011,
+"title": "The atacama cosmology telescope: detection of sunyaev-zel'dovich decrement in groups and clusters associated with luminous red galaxies",
+"authors": "N. Hand, J. W. Appel, N. Battaglia, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "736 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/736/1/39",
+"num": 321
+},
+{
+"year": 2011,
+"title": "Evidence for Dark Energy from the Cosmic Microwave Background Alone Using the Atacama Cosmology Telescope Lensing Measurements",
+"authors": "B. D. Sherwin, J. Dunkley, S. Das, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "107 (1)",
+"doi": "https://doi.org/10.1103/PhysRevLett.107.021302",
+"num": 322
+},
+{
+"year": 2011,
+"title": "Detection of the Power Spectrum of Cosmic Microwave Background Lensing by the Atacama Cosmology Telescope",
+"authors": "S. Das, B. D. Sherwin, P. Aguirre, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "107 (1)",
+"doi": "https://doi.org/10.1103/PhysRevLett.107.021301",
+"num": 323
+},
+{
+"year": 2011,
+"title": "THE RADIO-2 mm SPECTRAL INDEX OF THE CRAB NEBULA MEASURED WITH GISMO",
+"authors": "R. G. Arendt, J. V. George, J. G. Staguhn, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "734 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/734/1/54",
+"num": 324
+},
+{
+"year": 2011,
+"title": "Strongly quadrature-dependent noise in superconducting microresonators measured at the vacuum-noise limit",
+"authors": "J. Gao, L. R. Vale, J. B. Mates, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "98 (23)",
+"doi": "https://doi.org/10.1063/1.3597156",
+"num": 325
+},
+{
+"year": 2011,
+"title": "Overview of the atacama cosmology telescope: receiver, instrumentation, and telescope systems",
+"authors": "D. S. Swetz, P. A. Ade, M. Amiri, et al.",
+"venue": "Astrophysical Journal Supplement Series",
+"tag": "ApJS",
+"vol": "194 (2)",
+"doi": "https://doi.org/10.1088/0067-0049/194/2/41",
+"num": 326
+},
+{
+"year": 2011,
+"title": "Al-Mn Transition Edge Sensors for Cosmic Microwave Background Polarimeters",
+"authors": "D. R. Schmidt, H. Cho, J. Hubmayr, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "21 (3): 196\u201398",
+"doi": "https://doi.org/10.1109/TASC.2010.2090313",
+"num": 327
+},
+{
+"year": 2011,
+"title": "Design and Testing of Superconducting Microwave Passive Components for Quantum Information Processing",
+"authors": "H. S. Ku, F. Mallet, L. R. Vale, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "21 (3): 452\u201355",
+"doi": "https://doi.org/10.1109/TASC.2010.2089403",
+"num": 328
+},
+{
+"year": 2011,
+"title": "Stability of Al-Mn Transition Edge Sensors for Frequency Domain Multiplexing",
+"authors": "J. Hubmayr, J. E. Austermann, J. A. Beall, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "21 (3): 203\u20136",
+"doi": "https://doi.org/10.1109/TASC.2010.2090630",
+"num": 329
+},
+{
+"year": 2011,
+"title": "Time-Division SQUID Multiplexers With Reduced Sensitivity to External Magnetic Fields",
+"authors": "G. M. Stiehl, H. M. Cho, G. C. Hilton, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "21 (3): 298\u2013301",
+"doi": "https://doi.org/10.1109/TASC.2010.2091483",
+"num": 330
+},
+{
+"year": 2011,
+"title": "Quantum State Tomography of an Itinerant Squeezed Microwave Field",
+"authors": "F. Mallet, M. A. Castellanos-Beltran, H. S. Ku, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "106 (22): 220502",
+"doi": "https://doi.org/10.1103/PhysRevLett.106.220502",
+"num": 331
+},
+{
+"year": 2011,
+"title": "The atacama cosmology telescope: cosmology from galaxy clusters detected via the sunyaev-zel'dovich effect",
+"authors": "N. Sehgal, H. Trac, V. Acquaviva, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "732 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/732/1/44",
+"num": 332
+},
+{
+"year": 2011,
+"title": "THE ATACAMA COSMOLOGY TELESCOPE: EXTRAGALACTIC SOURCES AT 148 GHz IN THE 2008 SURVEY",
+"authors": "T. A. Marriage, J. Baptiste Juin, Y. Lin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "731 (2)",
+"doi": "https://doi.org/10.1088/0004-637X/731/2/100",
+"num": 333
+},
+{
+"year": 2011,
+"title": "THE ATACAMA COSMOLOGY TELESCOPE: A MEASUREMENT OF THE COSMIC MICROWAVE BACKGROUND POWER SPECTRUM AT 148 AND 218 GHz FROM THE 2008 SOUTHERN SURVEY",
+"authors": "S. Das, T. A. Marriage, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "729 (1)",
+"doi": "https://doi.org/10.1088/0004-637X/729/1/62",
+"num": 334
+},
+{
+"year": 2011,
+"title": "High-Resolution Passive Video-Rate Imaging at 350 GHz",
+"authors": "D. Becker, C. Gentry, P. Ade, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.884374",
+"num": 335
+},
+{
+"year": 2010,
+"title": "The atacama cosmology telescope (ACT): beam profiles and first sz cluster maps",
+"authors": "A. D. Hincks, V. Acquaviva, P. A. Ade, et al.",
+"venue": "Astrophysical Journal Supplement Series",
+"tag": "ApJS",
+"vol": "191 (2): 423-438",
+"doi": "https://doi.org/10.1088/0067-0049/191/2/423",
+"num": 336
+},
+{
+"year": 2010,
+"title": "The atacama cosmology telescope: physical properties and purity of a galaxy cluster sample selected via the sunyaev-zel'dovich effect",
+"authors": "F. Menanteau, J. Gonzalez, J. Juin, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "723 (2): 1523-1541",
+"doi": "https://doi.org/10.1088/0004-637X/723/2/1523",
+"num": 337
+},
+{
+"year": 2010,
+"title": "THE ATACAMA COSMOLOGY TELESCOPE: A MEASUREMENT OF THE 600 < l < 8000 COSMIC MICROWAVE BACKGROUND POWER SPECTRUM AT 148 GHz",
+"authors": "J. W. Fowler, V. Acquaviva, P. A. Ade, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "722 (2): 1148-1161",
+"doi": "https://doi.org/10.1088/0004-637X/722/2/1148",
+"num": 338
+},
+{
+"year": 2010,
+"title": "Noise performance of lumped element direct current superconducting quantum interference device amplifiers in the 4-8 GHz range",
+"authors": "L. Spietz, K. Irwin, M. Lee, J. Aumentado",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "97 (14)",
+"doi": "https://doi.org/10.1063/1.3497008",
+"num": 339
+},
+{
+"year": 2010,
+"title": "Implications of a high angular resolution image of the sunyaev-zel'dovich effect in rxj1347-1145",
+"authors": "B. S. Mason, S. R. Dicker, P. M. Korngut, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "716 (1): 739\u201345",
+"doi": "https://doi.org/10.1088/0004-637X/716/1/739",
+"num": 340
+},
+{
+"year": 2010,
+"title": "Code-division SQUID multiplexing",
+"authors": "M. D. Niemack, J. Beyer, H. M. Cho, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "96 (16)",
+"doi": "https://doi.org/10.1063/1.3378772",
+"num": 341
+},
+{
+"year": 2010,
+"title": "Code-division multiplexing of superconducting transition-edge sensor arrays",
+"authors": "K. D. Irwin, M. D. Niemack, J. Beyer, et al.",
+"venue": null,
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1088/0953-2048/23/3/034004",
+"num": 342
+},
+{
+"year": 2010,
+"title": "Measurement of ion cascade energies through resolution degradation of alpha particle microcalorimeters",
+"authors": "R. D. Horansky, G. M. Stiehl, J. A. Beall, et al.",
+"venue": "Journal of Applied Physics",
+"tag": "J. Appl. Phys.",
+"vol": "107 (4)",
+"doi": "https://doi.org/10.1063/1.3309279",
+"num": 343
+},
+{
+"year": 2010,
+"title": "Optical Design of the EPIC-IM Crossed Dragone Telescope",
+"authors": "H. Tran, B. Johnson, M. Dragovan, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857423",
+"num": 344
+},
+{
+"year": 2010,
+"title": "ZEUS-2: a second generation submillimeter grating spectrometer for exploring distant galaxies",
+"authors": "C. Ferkinhoff, T. Nikola, S. C. Parshley, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857018",
+"num": 345
+},
+{
+"year": 2010,
+"title": "A 350 GHz high-resolution high-sensitivity passive video imaging system",
+"authors": "D. Becker, J. Beall, H. Cho, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.852932",
+"num": 346
+},
+{
+"year": 2010,
+"title": "The Keck Array: a pulse tube cooled CMB polarimeter",
+"authors": "C. D. Sheehy, P. R. Ade, R. W. Aikin, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857871",
+"num": 347
+},
+{
+"year": 2010,
+"title": "The BICEP2 CMB polarization experiment",
+"authors": "R. W. Ogburn, P. A. Ade, R. W. Aikin, et al.",
+"venue": "Conference on Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy V",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857864",
+"num": 348
+},
+{
+"year": 2010,
+"title": "Antenna-coupled TES Bolometer Arrays for BICEP2/Keck and SPIDER",
+"authors": "A. Orlando, R. W. Aikin, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857914",
+"num": 349
+},
+{
+"year": 2010,
+"title": "Optical Efficiency of Feedhorn-Coupled TES Polarimeters for Next-Generation CMB Instruments",
+"authors": "J. W. Henning, J. W. Appel, J. E. Austermann, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.859478",
+"num": 350
+},
+{
+"year": 2010,
+"title": "Design and performance of the Spider instrument",
+"authors": "M. C. Runyan, P. R. Ade, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857715",
+"num": 351
+},
+{
+"year": 2010,
+"title": "ACTPol: A polarization-sensitive receiver for the Atacama Cosmology Telescope",
+"authors": "M. D. Niemack, P. R. Ade, J. Aguirre, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857464",
+"num": 352
+},
+{
+"year": 2010,
+"title": "SPIDER: a balloon-borne CMB polarimeter for large angular scales",
+"authors": "J. P. Filippini, P. R. Ade, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857720",
+"num": 353
+},
+{
+"year": 2010,
+"title": "Thermal Architecture for the SPIDER flight cryostat",
+"authors": "J. E. Gudmundsson, P. R. Ade, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857925",
+"num": 354
+},
+{
+"year": 2010,
+"title": "Characterising the SCUBA-2 superconducting bolometer arrays",
+"authors": "D. Bintley, M. J. MacIntosh, W. S. Holland, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.856839",
+"num": 355
+},
+{
+"year": 2010,
+"title": "Progress on the Micro-X sounding rocket X-ray telescope: completion of flight hardware",
+"authors": "P. Wikus, J. S. Adams, R. Baker, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857034",
+"num": 356
+},
+{
+"year": 2010,
+"title": "The X-ray Microcalorimeter Spectrometer onboard of IXO",
+"authors": "J. W. den Herder, L. Kelley, K. Mitsuda, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.856018",
+"num": 357
+},
+{
+"year": 2010,
+"title": "Characterising and calibrating the SCUBA-2 superconducting bolometer arrays for science observing",
+"authors": "D. Bintley, P. Friberg, M. J. MacIntosh, et al.",
+"venue": null,
+"tag": "IEEE",
+"vol": "",
+"doi": "https://ieeexplore.ieee.org/document/5612463",
+"num": 358
+},
+{
+"year": 2010,
+"title": "Corrugated Silicon Platelet Feed Horn Array for CMB Polarimetry at 150 GHz",
+"authors": "J. W. Britton, J. P. Nibarger, K. Yoon, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857701",
+"num": 359
+},
+{
+"year": 2010,
+"title": "5,120 Superconducting Bolometers for the PIPER Balloon-Borne CMB Polarization Experiment",
+"authors": "D. J. Benford, D. T. Chuss, G. C. Hilton, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.856491",
+"num": 360
+},
+{
+"year": 2010,
+"title": "Modeling and characterization of the SPIDER half-wave plate",
+"authors": "S. A. Bryan, P. A. R. Ade, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857837",
+"num": 361
+},
+{
+"year": 2010,
+"title": "The Primordial Inflation Polarization Explorer (PIPER)",
+"authors": "D. T. Chuss, P. A. R. Ade, D. J. Benford, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.857119",
+"num": 362
+},
+{
+"year": 2009,
+"title": "90 GHz AND 150 GHz OBSERVATIONS OF THE ORION M42 REGION. A SUBMILLIMETER TO RADIO ANALYSIS",
+"authors": "S. R. Dicker, B. S. Mason, P. M. Korngut, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "705 (1): 226\u201336",
+"doi": "https://doi.org/10.1088/0004-637X/705/1/226",
+"num": 365
+},
+{
+"year": 2009,
+"title": "Microcalorimeter arrays for ultra-high energy resolution X- and gamma-ray detection",
+"authors": "A. S. Hoover, M. K. Bacrania, N. J. Hoteling, et al.",
+"venue": "Journal of Radioanalytical and Nuclear Chemistry",
+"tag": null,
+"vol": "282 (1): 227\u201332",
+"doi": "https://doi.org/10.1007/s10967-009-0223-3",
+"num": 366
+},
+{
+"year": 2009,
+"title": "Superconducting quantum interference device amplifiers with over 27 GHz of gain-bandwidth product operated in the 4-8 GHz frequency range",
+"authors": "L. Spietz, K. Irwin, J. Aumentado",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "95 (9)",
+"doi": "https://doi.org/10.1063/1.3220061",
+"num": 367
+},
+{
+"year": 2009,
+"title": "90 GHz OBSERVATIONS OF M87 AND HYDRA A",
+"authors": "W. D. Cotton, B. S. Mason, S. R. Dicker, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "701 (2): 1872\u201379",
+"doi": "https://doi.org/10.1088/0004-637X/701/2/1872",
+"num": 368
+},
+{
+"year": 2009,
+"title": "Large-Area Microcalorimeter Detectors for Ultra-High-Resolution X-Ray and Gamma-Ray Spectroscopy",
+"authors": "M. K. Bacrania, A. S. Hoover, P. J. Karpius, et al.",
+"venue": "IEEE Transactions on Nuclear Science",
+"tag": "IEEE Trans. Nucl. Sci.",
+"vol": "56 (4): 2299\u20132302",
+"doi": "https://doi.org/10.1109/TNS.2009.2022754",
+"num": 369
+},
+{
+"year": 2009,
+"title": "A First Application of the FRAM Isotopic Analysis Code to High-Resolution Microcalorimetry Gamma-Ray Spectra",
+"authors": "P. J. Karpius, D. Vo, M. Bacrania, et al.",
+"venue": "IEEE Transactions on Nuclear Science",
+"tag": "IEEE Trans. Nucl. Sci.",
+"vol": "56 (4): 2284\u201389",
+"doi": "https://doi.org/10.1109/TNS.2009.2022938",
+"num": 370
+},
+{
+"year": 2009,
+"title": "Application of GEANT4 to the Simulation of High Energy-Resolution Microcalorimeter Detectors",
+"authors": "A. S. Hoover, M. K. Bacrania, P. J. Karpius, et al.",
+"venue": "IEEE Transactions on Nuclear Science",
+"tag": "IEEE Trans. Nucl. Sci.",
+"vol": "56 (4): 2294\u201398",
+"doi": "https://doi.org/10.1109/TNS.2009.2022160",
+"num": 371
+},
+{
+"year": 2009,
+"title": "Bandwidth and Dynamic Range of a Widely Tunable Josephson Parametric Amplifier",
+"authors": "M. A. Castellanos-Beltran, K. D. Irwin, L. R. Vale, G. C. Hilton,  Lehnert",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 944\u201347",
+"doi": "https://doi.org/10.1109/TASC.2009.2018119",
+"num": 372
+},
+{
+"year": 2009,
+"title": "Time-of-Flight Mass Spectrometry With Latching Nb Meander Detectors",
+"authors": "B. V. Estey, J. A. Beall, G. C. Hilton, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 382\u201385",
+"doi": "https://doi.org/10.1109/TASC.2009.2018507",
+"num": 373
+},
+{
+"year": 2009,
+"title": "Improved Isotopic Analysis With a Large Array of Gamma-Ray Microcalorimeters",
+"authors": "N. Jethava, J. N. Ullom, D. A. Bennett, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 536\u201339",
+"doi": "https://doi.org/10.1109/TASC.2009.2017945",
+"num": 374
+},
+{
+"year": 2009,
+"title": "Micro-X, the TES X-ray Imaging Rocket: First Year Progress",
+"authors": "P. Wikus, J. M. Rutherford, J. S. Adams, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 553\u201356",
+"doi": "https://doi.org/10.1109/TASC.2009.2019129",
+"num": 375
+},
+{
+"year": 2009,
+"title": "Anomalous Thermal Behavior in Microcalorimeter Gamma-Ray Detectors",
+"authors": "R. D. Horansky, J. A. Beall, K. D. Irwin,  Ullom",
+"venue": null,
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 733\u201336",
+"doi": "https://doi.org/10.1063/1.3292446",
+"num": 376
+},
+{
+"year": 2009,
+"title": "The X-Ray Microcalorimeter Spectrometer for the International X-Ray Observatory",
+"authors": "R. L. Kelley, S. R. Bandler, W. B. Doriese, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 757",
+"doi": "https://doi.org/10.1063/1.3292449",
+"num": 377
+},
+{
+"year": 2009,
+"title": "Antenna-coupled TES Arrays For The BICEP2/Keck and SPIDER polarimeters",
+"authors": "A. Orlando, R. W. Aikin, M. Amiri, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 471",
+"doi": "https://doi.org/10.1063/1.3292380",
+"num": 378
+},
+{
+"year": 2009,
+"title": "Shannon Limits for Low-Temperature Detector Readout",
+"authors": " Irwin",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 229\u201336",
+"doi": "https://doi.org/10.1063/1.3292320",
+"num": 379
+},
+{
+"year": 2009,
+"title": "Progress Toward Corrugated Feed Horn Arrays in Silicon",
+"authors": "J. Britton, K. W. Yoon, J. A. Beall, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 375\u201378",
+"doi": "https://doi.org/10.1063/1.3292356",
+"num": 380
+},
+{
+"year": 2009,
+"title": "Characterization of Thermal Cross-talk in a gamma-ray Microcalorimeter Array",
+"authors": "N. Jethava, J. N. Ullom, D. A. Bennett, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 34",
+"doi": "https://doi.org/10.1063/1.3292349",
+"num": 381
+},
+{
+"year": 2009,
+"title": "New Science Case for the Micro-X High Energy Resolution Microcalorimeter X-ray Imaging Rocket",
+"authors": "E. Figueroa-Feliciano, J. S. Adams, R. Baker, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 426",
+"doi": "https://doi.org/10.1063/1.3292368",
+"num": 382
+},
+{
+"year": 2009,
+"title": "Optimal filtering, record length, and count rate in transition-edge-sensor microcalorimeters",
+"authors": "W. B. Doriese, J. S. Adams, G. C. Hilton, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 450",
+"doi": "https://doi.org/10.1063/1.3292375",
+"num": 383
+},
+{
+"year": 2009,
+"title": "Characterizing and Modeling the Noise and Complex Impedance of Feedhorn-Coupled TES Polarimeters",
+"authors": "J. W. Appel, J. E. Austermann, J. A. Beall, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 211",
+"doi": "https://doi.org/10.1063/1.3292317",
+"num": 384
+},
+{
+"year": 2009,
+"title": "Electronics for a Next-Generation SQUID-Based Time-Domain Multiplexing System",
+"authors": "C. D. Reintsema, J. S. Adams, R. Baker, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 237",
+"doi": "https://doi.org/10.1063/1.3292321",
+"num": 385
+},
+{
+"year": 2009,
+"title": "The Detector and Readout Systems of the Micro-X High Resolution Microcalorimeter X-Ray Imaging Rocket",
+"authors": "P. Wikus, W. B. Doriese, M. E. Eckart, et al.",
+"venue": null,
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 434",
+"doi": "https://doi.org/10.1063/1.3292371",
+"num": 386
+},
+{
+"year": 2009,
+"title": "Optical properties of Feedhorn-coupled TES polarimeters for CMB polarimetry",
+"authors": "L. E. Bleem, J. W. Appel, J. E. Austermann, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 479",
+"doi": "https://doi.org/10.1063/1.3292382",
+"num": 387
+},
+{
+"year": 2009,
+"title": "Planar Orthomode Transducers for Feedhorn-coupled TES Polarimeters",
+"authors": "J. McMahon, J. W. Appel, J. E. Austermann, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 490",
+"doi": "https://doi.org/10.1063/1.3292386",
+"num": 388
+},
+{
+"year": 2009,
+"title": "The Atacama B-Mode Search: CMB Polarimetry with Transition-Edge-Sensor Bolometers",
+"authors": "T. Essinger-Hileman, J. W. Appel, J. A. Beall, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 494",
+"doi": "https://doi.org/10.1063/1.3292387",
+"num": 389
+},
+{
+"year": 2009,
+"title": "Measurements of Bolometer Uniformity for Feedhorn Coupled TES Polarimeters",
+"authors": "J. E. Austermann, M. D. Niemack, J. W. Appel, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 498",
+"doi": "https://doi.org/10.1063/1.3292388",
+"num": 390
+},
+{
+"year": 2009,
+"title": "Feedhorn-Coupled TES Polarimeters for Next-Generation CMB Instruments",
+"authors": "K. W. Yoon, J. W. Appel, J. E. Austermann, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 515",
+"doi": "https://doi.org/10.1063/1.3292392",
+"num": 391
+},
+{
+"year": 2009,
+"title": "SPTpol: an instrument for CMB polarization",
+"authors": "J. J. McMahon, K. A. Aird, B. A. Benson, et al.",
+"venue": null,
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 511",
+"doi": "https://doi.org/10.1063/1.3292391",
+"num": 392
+},
+{
+"year": 2009,
+"title": "Micro-x, the high resolution sounding rocket X-ray imaging spectrometer",
+"authors": "P. Wikus, J. S. Adams, R. Baker, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 573\u201377",
+"doi": "https://scholar.google.com/scholar?q=%22Micro-x%2C%20the%20high%20resolution%20sounding%20rocket%20X-ray%20imaging%20spectrometer%22",
+"num": 393
+},
+{
+"year": 2009,
+"title": "a Dependence of Excess Noise on the Partial Derivatives of Resistance in Superconducting Transition Edge Sensors",
+"authors": "N. Jethava, J. N. Ullom, K. D. Irwin, et al.",
+"venue": "AIP Conference Proceedings",
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 31",
+"doi": "https://doi.org/10.1063/1.3292343",
+"num": 394
+},
+{
+"year": 2008,
+"title": "Spider optimization: probing the systematics of a large-scale b-mode experiment",
+"authors": "C. J. MacTavish, P. R. Ade, E. S. Battistelli, et al.",
+"venue": "Astrophysical Journal",
+"tag": "ApJ",
+"vol": "689 (2): 655\u201365",
+"doi": "https://doi.org/10.1086/592732",
+"num": 395
+},
+{
+"year": 2008,
+"title": "Amplification and squeezing of quantum noise with a tunable Josephson metamaterial",
+"authors": "M. A. Castellanos-Beltran, K. D. Irwin, G. C. Hilton, L. R. Vale,  Lehnert",
+"venue": "Nature Physics",
+"tag": "Nat. Phys.",
+"vol": "4 (12): 929\u201331",
+"doi": "https://doi.org/10.1038/nphys1090",
+"num": 396
+},
+{
+"year": 2008,
+"title": "Superconducting calorimetric alpha particle sensors for nuclear nonproliferation applications",
+"authors": "R. D. Horansky, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "93 (12)",
+"doi": "https://doi.org/10.1063/1.2978204",
+"num": 397
+},
+{
+"year": 2008,
+"title": "Input impedance and gain of a gigahertz amplifier using a dc superconducting quantum interference device in a quarter wave resonator",
+"authors": "L. Spietz, K. Irwin, J. Aumentado",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "93 (8)",
+"doi": "https://doi.org/10.1063/1.2970967",
+"num": 398
+},
+{
+"year": 2008,
+"title": "Analysis of nuclear material by alpha spectroscopy with a transition-edge microcalorimeter",
+"authors": "R. D. Horansky, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 1067\u201373",
+"doi": "https://doi.org/10.1007/s10909-008-9789-3",
+"num": 399
+},
+{
+"year": 2008,
+"title": "Functional description of read-out electronics for time-domain multiplexed bolometers for millimeter and sub-millimeter astronomy",
+"authors": "E. S. Battistelli, M. Amiri, B. Burger, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 908\u201314",
+"doi": "https://doi.org/10.1007/s10909-008-9772-z",
+"num": 400
+},
+{
+"year": 2008,
+"title": "The EBIT calorimeter spectrometer: A new, permanent user facility at the LLNL EBIT",
+"authors": "F. S. Porter, P. Beiersdorfer, G. V. Brown, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 1061\u201366",
+"doi": "https://doi.org/10.1007/s10909-008-9788-4",
+"num": 401
+},
+{
+"year": 2008,
+"title": "Operation of an X-ray transition-edge sensor cooled by tunnel junction refrigerators",
+"authors": "N. A. Miller, J. A. Beall, G. C. Hilton, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 635\u201339",
+"doi": "https://doi.org/10.1007/s10909-008-9727-4",
+"num": 402
+},
+{
+"year": 2008,
+"title": "Micro-X: Mission overview and science goals",
+"authors": "E. Figueroa-Feliciano, S. R. Bandler, M. Bautz, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 740\u201345",
+"doi": "https://doi.org/10.1007/s10909-008-9732-7",
+"num": 403
+},
+{
+"year": 2008,
+"title": "A kilopixel array of TES bolometers for ACT: Development, testing, and first light",
+"authors": "M. D. Niemack, Y. Zhao, E. Wollack, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 690\u201396",
+"doi": "https://doi.org/10.1007/s10909-008-9729-2",
+"num": 404
+},
+{
+"year": 2008,
+"title": "X-ray microcalorimeter research for solar physics at LMSAL and NIST: An update",
+"authors": "R. A. Stern, A. Rausch, S. Deiker, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 721\u201326",
+"doi": "https://doi.org/10.1007/s10909-008-9735-4",
+"num": 405
+},
+{
+"year": 2008,
+"title": "An optical system for body imaging from a distance using near-TeraHertz frequencies",
+"authors": "W. D. Duncan, R. E. Schwall, K. D. Irwin, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 777\u201383",
+"doi": "https://doi.org/10.1007/s10909-008-9746-1",
+"num": 406
+},
+{
+"year": 2008,
+"title": "Toward a 256-pixel array of gamma-ray microcalorimeters for nuclear-materials analysis",
+"authors": "W. B. Doriese, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 754\u201359",
+"doi": "https://doi.org/10.1007/s10909-008-9750-5",
+"num": 407
+},
+{
+"year": 2008,
+"title": "A TDMA hybrid SQUID multiplexer",
+"authors": "C. D. Reintsema, J. Beall, W. Doriese, et al.",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "151 (3-4): 927\u201333",
+"doi": "https://doi.org/10.1007/s10909-008-9769-7",
+"num": 408
+},
+{
+"year": 2008,
+"title": "High resolution x-ray transition-edge sensor cooled by tunnel junction refrigerators",
+"authors": "N. A. Miller, G. C. O'Neil, J. A. Beall, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "92 (16)",
+"doi": "https://doi.org/10.1063/1.2913160",
+"num": 409
+},
+{
+"year": 2008,
+"title": "Design, fabrication, and multiplexing of magnetic calorimeter X-ray detectors with high-efficiency SQUID readout",
+"authors": "R. Sultan, B. L. Zink, K. D. Irwin, G. C. Hilton, J. N. Ullom,  Vale",
+"venue": "Journal of Low Temperature Physics",
+"tag": "J. Low Temp. Phys.",
+"vol": "pp. 363\u201368",
+"doi": "https://doi.org/10.1007/s10909-007-9656-7",
+"num": 410
+},
+{
+"year": 2008,
+"title": "Demonstration of a multiplexer of dissipationless superconducting quantum interference devices",
+"authors": "J. B. Mates, G. C. Hilton, K. D. Irwin, L. R. Vale,  Lehnert",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "92 (2)",
+"doi": "https://doi.org/10.1063/1.2803852",
+"num": 411
+},
+{
+"year": 2008,
+"title": "Multiplexed readout of uniform arrays of TES x-ray micro calorimeters suitable for Constellation-X",
+"authors": "C. A. Kilbourne, W. Doriese, S. R. Bandler, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.790027",
+"num": 412
+},
+{
+"year": 2008,
+"title": "Instrument design and characterization of the Millimeter Bolometer Array Camera on the Atacama Cosmology Telescope",
+"authors": "D. S. Swetz, P. R. Ade, C. Allen, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.789876",
+"num": 413
+},
+{
+"year": 2008,
+"title": "SPIDER: a balloon-borne large-scale CMB polarimeter",
+"authors": "B. P. Crill, P. R. Ade, E. S. Battistelli, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.787446",
+"num": 414
+},
+{
+"year": 2008,
+"title": "MUSTANG: 90 GHz Science with the Green Bank Telescope",
+"authors": "S. R. Dicker, P. M. Korngut, B. S. Mason, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.788361",
+"num": 415
+},
+{
+"year": 2008,
+"title": "Characterization of Transition Edge Sensors for the Millimeter Bolometer Array Camera on the Atacama Cosmology Telescope",
+"authors": "Y. Zhao, C. Allen, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.789864",
+"num": 416
+},
+{
+"year": 2008,
+"title": "The ClOVER Experiment",
+"authors": "L. Piccirillo, P. Ade, M. D. Audley, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.788927",
+"num": 417
+},
+{
+"year": 2008,
+"title": "The effects of the mechanical performance and alignment of the Atacama Cosmology Telescope on the sensitivity of microwave observations",
+"authors": "A. D. Hincks, P. R. Ade, C. Allen, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.790020",
+"num": 418
+},
+{
+"year": 2008,
+"title": "Opto-mechanical design and performance of a compact three-frequency camera for the Millimeter Bolometer Array Camera on the Atacama Cosmology Telescope",
+"authors": "R. J. Thornton, P. R. Ade, C. Allen, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.790078",
+"num": 419
+},
+{
+"year": 2008,
+"title": "Automatic setup of SCUBA-2 Detector Arrays",
+"authors": "X. Gao, D. Kelly, W. S. Holland, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.788816",
+"num": 420
+},
+{
+"year": 2008,
+"title": "Automated SQUID tuning procedure for kilo-pixel arrays of TES bolometers on the Atacama Cosmology Telescope",
+"authors": "E. S. Battistelli, M. Amiria, B. Burger, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.789738",
+"num": 421
+},
+{
+"year": 2008,
+"title": "Systems and control software for the Atacama Cosmology Telescope",
+"authors": "E. R. Switzer, C. Allen, M. Amiri, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.790006",
+"num": 422
+},
+{
+"year": 2008,
+"title": "Progress on the Micro-X rocket payload",
+"authors": "E. Figueroa-Feliciano, P. Wikus, J. S. Adams, et al.",
+"venue": "Conference on Space Telescopes and Instrumentation 2008 - Ultraviolet to Gamma Ray",
+"tag": null,
+"vol": "",
+"doi": "https://doi.org/10.1117/12.789904",
+"num": 423
+},
+{
+"year": 2008,
+"title": "BICEP2/SPUD: Searching for inflation with degree scale polarimetry from the South Pole",
+"authors": "H. Nguyen, J. Kovac, P. Ade, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.787997",
+"num": 424
+},
+{
+"year": 2008,
+"title": "Recent developments in transition-edge strip detectors for solar x-rays",
+"authors": "A. J. Rausch, S. W. Deiker, G. Hilton, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.790246",
+"num": 425
+},
+{
+"year": 2007,
+"title": "Superconducting absorbers for use in ultra-high resolution gamma-ray spectrometers based on low temperature microcalorimeter arrays",
+"authors": "R. D. Horansky, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 169\u201372",
+"doi": "https://doi.org/10.1016/j.nima.2007.04.032",
+"num": 426
+},
+{
+"year": 2007,
+"title": "Multiplexed microcalorimeter arrays for precision measurements from microwave to gamma-ray wavelengths",
+"authors": "J. N. Ullom, W. B. Doriese, J. A. Beall, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 161\u201364",
+"doi": "https://doi.org/10.1016/j.nima.2007.04.030",
+"num": 427
+},
+{
+"year": 2007,
+"title": "Evaluation of a microwave SQUID multiplexer prototype",
+"authors": "K. W. Lehnert, K. D. Irwin, M. A. Castellanos-Beltran, J. B. Mates,  Vale",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 705\u20139",
+"doi": "https://doi.org/10.1109/TASC.2007.898118",
+"num": 428
+},
+{
+"year": 2007,
+"title": "14-pixel, multiplexed array of gamma-ray microcalorimeters with 47 eV energy resolution at 103 keV",
+"authors": "W. B. Doriese, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "90 (19)",
+"doi": "https://doi.org/10.1063/1.2738371",
+"num": 429
+},
+{
+"year": 2007,
+"title": "MARE, Microcalorimeter Arrays for a Rhenium Experiment: A detector overview",
+"authors": "E. Andreotti, C. Arnaboldi, P. de Bernardis, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 208\u201310",
+"doi": "https://doi.org/10.1016/j.nima.2006.10.198",
+"num": 430
+},
+{
+"year": 2007,
+"title": "Electrical and optical measurements on the first SCUBA-2 prototype 1280 pixel submillimeter superconducting bolometer array",
+"authors": "A. L. Woodcraft, P. A. R. Ade, D. Bintley, et al.",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "78 (2): 024502",
+"doi": "https://doi.org/10.1063/1.2436839",
+"num": 431
+},
+{
+"year": 2007,
+"title": "MUSTANG. First light and current status",
+"authors": "S. R. Dicker, B. S. Mason, P. M. Korgut, et al.",
+"venue": null,
+"tag": "IEEE",
+"vol": "pp. 325",
+"doi": "https://ieeexplore.ieee.org/document/4516520",
+"num": 432
+},
+{
+"year": 2007,
+"title": "SCUBA-2: A large-format CCD-style imager for submillimeter astronomy",
+"authors": "M. D. Audley, W. Holland, D. Atkinson, et al.",
+"venue": null,
+"tag": null,
+"vol": "pp. 45",
+"doi": "https://doi.org/10.1007/978-3-540-39756-4_8",
+"num": 433
+},
+{
+"year": 2007,
+"title": "Superconducting bolometers for submillimeter spectroscopy from ground-based, airborne, and space platforms",
+"authors": "D. J. Benford, J. G. Staguhn, S. Moseley, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 217",
+"doi": "https://scholar.google.com/scholar?q=%22Superconducting%20bolometers%20for%20submillimeter%20spectroscopy%20from%20ground-based%2C%20airborne%2C%20and%20space%20platforms%22",
+"num": 434
+},
+{
+"year": 2007,
+"title": "Simulating the response of ultra-high energy resolution X- and gamma-ray microcalorimeter detectors",
+"authors": "A. S. Hoover, M. K. Bacrania, D. Dry, et al.",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 847\u201349",
+"doi": "https://doi.org/10.1109/NSSMIC.2007.4436461",
+"num": 435
+},
+{
+"year": 2007,
+"title": "Tests of finline-coupled TES bolometers for ClOVER",
+"authors": "M. D. Audley, D. M. Glowacka, D. J. Goldie, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 175",
+"doi": "https://scholar.google.com/scholar?q=%22Tests%20of%20finline-coupled%20TES%20bolometers%20for%20ClOVER%22",
+"num": 436
+},
+{
+"year": 2006,
+"title": "PAPPA: Primordial anisotropy polarization pathfinder array",
+"authors": "A. Kogut, D. T. Chuss, D. Fixsen, et al.",
+"venue": null,
+"tag": null,
+"vol": "pp. 1009\u201314",
+"doi": "https://doi.org/10.1016/j.newar.2006.09.024",
+"num": 437
+},
+{
+"year": 2006,
+"title": "Seeing with superconductors",
+"authors": " Irwin",
+"venue": "Scientific American",
+"tag": null,
+"vol": "pp. 295 (5): 86",
+"doi": "https://doi.org/10.1038/scientificamerican1106-86",
+"num": 438
+},
+{
+"year": 2006,
+"title": "Array-compatible transition-edge sensor microcalorimeter gamma-ray detector with 42 eV energy resolution at 103 keV",
+"authors": "B. L. Zink, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "89 (12)",
+"doi": "https://doi.org/10.1063/1.2352712",
+"num": 439
+},
+{
+"year": 2006,
+"title": "The SuperCDMS proposal for dark matter detection",
+"authors": "D. S. Akerib, M. J. Attisha, C. N. Bailey, et al.",
+"venue": "11th International Workshop on Low-Temperature Detectors",
+"tag": null,
+"vol": "pp. 411\u201313",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.025",
+"num": 440
+},
+{
+"year": 2006,
+"title": "Fabrication of prototype imaging arrays for SCUBA-2",
+"authors": "G. C. Hilton, J. A. Beall, W. B. Doriese, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 513\u201315",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.042",
+"num": 441
+},
+{
+"year": 2006,
+"title": "Normal metal-insulator-superconductor junction technology for bolometers",
+"authors": "D. R. Schmidt, W. D. Duncan, K. D. Irwin, K. W. Lehnert, N. A. Miller,  Ullom",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 516\u201318",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.043",
+"num": 442
+},
+{
+"year": 2006,
+"title": "Development of a solid-state 100 mK refrigerator for user-supplied microelectronics",
+"authors": "N. A. Miller, W. D. Duncan, J. A. Beall, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 633\u201335",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.089",
+"num": 443
+},
+{
+"year": 2006,
+"title": "Thermodynamics of nonlinear bolometers near equilibrium",
+"authors": " Irwin",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 718\u201320",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.115",
+"num": 444
+},
+{
+"year": 2006,
+"title": "Digital readouts for large microwave low-temperature detector arrays",
+"authors": "B. A. Mazin, P. K. Day, K. D. Irwin, C. D. Reintsema,  Zmuidzinas",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 799\u2013801",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.208",
+"num": 445
+},
+{
+"year": 2006,
+"title": "Progress toward kilopixel arrays: 3.8 eV microcalorimeter resolution in 8-channel SQUID multiplexer",
+"authors": "W. B. Doriese, J. A. Beall, W. D. Duncan, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 808\u201310",
+"doi": "https://doi.org/10.1016/j.nima.2005.12.146",
+"num": 446
+},
+{
+"year": 2006,
+"title": "TES imaging array technology for ClOVER",
+"authors": "M. D. Audley, R. W. Barker, M. Crane, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.670792",
+"num": 451
+},
+{
+"year": 2006,
+"title": "The Primordial Anisotropy Polarization Pathfinder Array (PAPPA): Instrument overview and status",
+"authors": "D. T. Chuss, A. Kogut, D. Fixsen, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.671940",
+"num": 452
+},
+{
+"year": 2006,
+"title": "SCUBA-2: a 10,000 pixel submillimeter camera for the James Clerk Maxwell Telescope",
+"authors": "W. Holland, M. MacIntosh, A. Fairley, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.671186",
+"num": 453
+},
+{
+"year": 2006,
+"title": "Characterization of a prototype SCUBA-2 1280 pixel submillimetre superconducting bolometer array",
+"authors": "A. L. Woodcraft, M. I. Hollister, D. Bintley, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.671310",
+"num": 454
+},
+{
+"year": 2006,
+"title": "Monte Carlo Studies of High Resolution Microcalorimeter Detectors",
+"authors": "A. S. Hoover, M. W. Rabin, C. R. Rudy, et al.",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 1268\u201372",
+"doi": "https://doi.org/10.1109/NSSMIC.2006.356074",
+"num": 455
+},
+{
+"year": 2006,
+"title": "Microcalorimeter Nuclear Spectrometers",
+"authors": "M. W. Rabin, A. S. Hoover, C. R. Rudy, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 544\u201347",
+"doi": "https://scholar.google.com/scholar?q=%22Microcalorimeter%20Nuclear%20Spectrometers%22",
+"num": 456
+},
+{
+"year": 2006,
+"title": "High Resolution Alpha Particle Spectroscopy with Cryogenic Microcalorimeters",
+"authors": "J. N. Ullom, R. D. Horansky, J. A. Beall, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 1630\u201332",
+"doi": "https://scholar.google.com/scholar?q=%22High%20Resolution%20Alpha%20Particle%20Spectroscopy%20with%20Cryogenic%20Microcalorimeters%22",
+"num": 457
+},
+{
+"year": 2006,
+"title": "First tests of prototype SCUBA-2 superconducting bolometer array",
+"authors": "A. L. Woodcraft, P. A. R. Ade, D. Bintley, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 1611",
+"doi": "https://scholar.google.com/scholar?q=%22First%20tests%20of%20prototype%20SCUBA-2%20superconducting%20bolometer%20array%22",
+"num": 458
+},
+{
+"year": 2006,
+"title": "A 90 GHz bolometer array for the Green Bank Telescope",
+"authors": "S. R. Dicker, J. A. Abrahams, P. R. Ade, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "",
+"doi": "https://doi.org/10.1117/12.672166",
+"num": 459
+},
+{
+"year": 2006,
+"title": "Science with Micro-X: the TES microcalorimeter X-ray imaging rocket - art. no. 62660A",
+"authors": "E. Figueroa-Feliciano, S. R. Bandler, M. Bautz, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "A2660",
+"doi": "https://doi.org/10.1117/12.672680",
+"num": 460
+},
+{
+"year": 2005,
+"title": "Optimized transition-edge x-ray microcalorimeter with 2.4 eV energy resolution at 5.9 keV",
+"authors": "J. N. Ullom, J. A. Beall, W. B. Doriese, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "87 (19)",
+"doi": "https://doi.org/10.1063/1.2061865",
+"num": 461
+},
+{
+"year": 2005,
+"title": "Measurements and modeling of phonon cooling by electron-tunneling refrigerators",
+"authors": "N. A. Miller, A. M. Clark, A. Williams, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 556\u201359",
+"doi": "https://doi.org/10.1109/TASC.2005.849917",
+"num": 462
+},
+{
+"year": 2005,
+"title": "Cooling of bulk material by electron-tunneling refrigerators",
+"authors": "A. M. Clark, N. A. Miller, A. Williams, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "86 (17)",
+"doi": "https://doi.org/10.1063/1.1914966",
+"num": 463
+},
+{
+"year": 2005,
+"title": "Prototype detector technology for the SCUBA-2 submillimetre bolometer array",
+"authors": "A. J. Walton, W. Parkes, J. G. Terry, et al.",
+"venue": "Proceedings of the Institution of Mechanical Engineers Part N-journal of Nanomaterials Nanoengineering and Nanosystems",
+"tag": null,
+"vol": "219 (1): 11\u201321",
+"doi": "https://doi.org/10.1243/174034905X77337",
+"num": 464
+},
+{
+"year": 2005,
+"title": "A superconductor-insulator-normal metal bolometer with microwave readout suitable for large-format arrays",
+"authors": "D. R. Schmidt, K. W. Lehnert, A. M. Clark, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "86 (5)",
+"doi": "https://doi.org/10.1063/1.1855411",
+"num": 465
+},
+{
+"year": 2005,
+"title": "Development of large arrays of microcalorimeters for precision gamma-ray Spectroscopy",
+"authors": "J. N. Ullom, B. L. Zink, J. A. Beall, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 1154\u201358",
+"doi": "https://scholar.google.com/scholar?q=%22Development%20of%20large%20arrays%20of%20microcalorimeters%20for%20precision%20gamma-ray%20Spectroscopy%22",
+"num": 466
+},
+{
+"year": 2005,
+"title": "Transition-edge sensors",
+"authors": "K. D. Irwin,  Hilton",
+"venue": "Cryogenic Particle Detection",
+"tag": "Springer",
+"vol": "99: 63\u2013149",
+"doi": "https://doi.org/10.1007/10933596_3",
+"num": 467
+},
+{
+"year": 2005,
+"title": "Electron probe microanalysis with cryogenic detectors",
+"authors": "D. E. Newbury, K. D. Irwin, G. C. Hilton, D. A. Wollman, J. A. Small,  Martinis",
+"venue": "Cryogenic Particle Detection",
+"tag": "Search",
+"vol": "99: 267\u2013312",
+"doi": "https://scholar.google.com/scholar?q=%22Electron%20probe%20microanalysis%20with%20cryogenic%20detectors%22",
+"num": 468
+},
+{
+"year": 2004,
+"title": "Time-division multiplexing of high-resolution x-ray microcalorimeters: Four pixels and beyond",
+"authors": "W. B. Doriese, J. A. Beall, S. Deiker, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "85 (20): 4762\u201364",
+"doi": "https://doi.org/10.1063/1.1823041",
+"num": 469
+},
+{
+"year": 2004,
+"title": "Superconducting transition edge sensor using dilute AlMn alloys",
+"authors": "S. W. Deiker, W. Doriese, G. C. Hilton, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "85 (11): 2137\u201339",
+"doi": "https://doi.org/10.1063/1.1789575",
+"num": 470
+},
+{
+"year": 2004,
+"title": "Microwave SQUID multiplexer",
+"authors": "K. D. Irwin,  Lehnert",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "85 (11): 2107\u20139",
+"doi": "https://doi.org/10.1063/1.1791733",
+"num": 471
+},
+{
+"year": 2004,
+"title": "Characterization and reduction of unexplained noise in superconducting transition-edge sensors",
+"authors": "J. N. Ullom, W. B. Doriese, G. C. Hilton, et al.",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "84 (21): 4206\u20138",
+"doi": "https://doi.org/10.1063/1.1753058",
+"num": 472
+},
+{
+"year": 2004,
+"title": "The Advanced Technology Solar Spectroscopic Imager - a novel experiment employing a transition-edge sensor to probe the soft X-ray solar corona",
+"authors": "P. Boerner, D. S. Martinez-Galarce, K. Wamba, et al.",
+"venue": "10th International Workshop on Low Temperature Detectors",
+"tag": null,
+"vol": "pp. 372\u201375",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.270",
+"num": 473
+},
+{
+"year": 2004,
+"title": "SCUBA-2 arrays to system interfaces",
+"authors": "W. Duncan, D. Audley, W. Holland, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 427\u201330",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.355",
+"num": 474
+},
+{
+"year": 2004,
+"title": "In-focal-plane SQUID multiplexer",
+"authors": "K. D. Irwin, M. D. Audley, J. A. Beall, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 544\u201347",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.310",
+"num": 475
+},
+{
+"year": 2004,
+"title": "Lithographically patterned magnetic calorimeter X-ray detectors with integrated SQUID readout",
+"authors": "B. L. Zink, K. D. Irwin, G. C. Hilton, D. P. Pappas, J. N. Ullom,  Huber",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 52\u201355",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.218",
+"num": 476
+},
+{
+"year": 2004,
+"title": "Suppression of excess noise in Transition-Edge Sensors using magnetic field and geometry",
+"authors": "J. N. Ullom, W. B. Doriese, G. C. Hilton, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 333\u201335",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.260",
+"num": 477
+},
+{
+"year": 2004,
+"title": "A 90 GHz array for the green bank telescope",
+"authors": "D. J. Benford, M. J. Devlin, Irwin Dicker, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 387\u201389",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.341",
+"num": 478
+},
+{
+"year": 2004,
+"title": "X-ray microcalorimeter arrays fabricated by surface micromachining",
+"authors": "G. C. Hilton, J. A. Beall, S. Deiker, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 435\u201338",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.357",
+"num": 479
+},
+{
+"year": 2004,
+"title": "Fabrication of the SCUBA-2 detector arrays",
+"authors": "M. D. Audley, W. D. Duncan, W. S. Holland, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 483\u201386",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.379",
+"num": 480
+},
+{
+"year": 2004,
+"title": "Time-division SQUID multiplexer for the readout of X-ray microcalorimeter arrays",
+"authors": "W. B. Doriese, J. A. Beall, J. Beyer, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 559\u201361",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.314",
+"num": 481
+},
+{
+"year": 2004,
+"title": "Robust infrared filters for X-ray spectroscopy",
+"authors": "N. A. Miller, J. N. Ullom, J. A. Beall, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 638\u201340",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.364",
+"num": 482
+},
+{
+"year": 2004,
+"title": "SCUBA-2: A large-format TES array for submillimetre astronomy",
+"authors": "M. D. Audley, W. S. Holland, W. D. Duncan, et al.",
+"venue": "10th International Workshop on Low Temperature Detectors",
+"tag": null,
+"vol": "pp. 479\u201382",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.378",
+"num": 483
+},
+{
+"year": 2004,
+"title": "Distributed transition-edge sensors for linearized position response in a phonon-mediated X-ray imaging spectrometer",
+"authors": "B. Cabrera, P. L. Brink, S. W. Leman, et al.",
+"venue": "10th International Workshop on Low Temperature Detectors",
+"tag": null,
+"vol": "pp. 502\u20134",
+"doi": "https://doi.org/10.1016/j.nima.2003.11.298",
+"num": 484
+},
+{
+"year": 2004,
+"title": "Design and fabrication of the detector technology for",
+"authors": "A. J. Walton, W. Parkes, J. G. Terry, et al.",
+"venue": "Scuba-2 Iee Proceedings-science Measurement and Technology",
+"tag": null,
+"vol": "151 (2): 110\u201320",
+"doi": "https://doi.org/10.1049/ip-smt:20040088",
+"num": 485
+},
+{
+"year": 2004,
+"title": "Bias conditions of dc-SQUID for a time-domain SQUID multiplexer",
+"authors": "J. Beyer, D. Drung,  Irwin",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "75 (2): 502\u20136",
+"doi": "https://doi.org/10.1063/1.1638877",
+"num": 486
+},
+{
+"year": 2004,
+"title": "Design and fabrication of two-dimensional superconducting bolometer arrays",
+"authors": "D. J. Benford, J. G. Staguhn, G. J. Stacey, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 647\u201358",
+"doi": "https://doi.org/10.1117/12.552108",
+"num": 487
+},
+{
+"year": 2004,
+"title": "A 90 GHz array for use on the Green Bank Telescope Dicker,",
+"authors": "P. A. Ade, D. J. Benford, M. J. Devlin, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 1221\u201329",
+"doi": "https://doi.org/10.1117/12.580192",
+"num": 488
+},
+{
+"year": 2004,
+"title": "A planar two-dimensional superconducting bolometer array for the Green Bank Telescope",
+"authors": "D. J. Benford, Wollack Dicker, Supanich E. j., et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 208\u201319",
+"doi": "https://doi.org/10.1117/12.552094",
+"num": 489
+},
+{
+"year": 2003,
+"title": "Prototype system for superconducting quantum interference device multiplexing of large-format transition-edge sensor arrays",
+"authors": "C. D. Reintsema, J. Beyer, S. W. Nam, et al.",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "74 (10): 4500\u20134508",
+"doi": "https://doi.org/10.1063/1.1605259",
+"num": 490
+},
+{
+"year": 2003,
+"title": "Time-division superconducting quantum interference device multiplexer for transition-edge sensors",
+"authors": "P. A. de Korte, J. Beyer, S. Deiker, et al.",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "74 (8): 3807\u201315",
+"doi": "https://doi.org/10.1063/1.1593809",
+"num": 491
+},
+{
+"year": 2003,
+"title": "Surface micromachining for transition-edge detectors",
+"authors": "G. C. Hilton, J. A. Beall, S. Deiker, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 664\u201367",
+"doi": "https://doi.org/10.1109/TASC.2003.813989",
+"num": 492
+},
+{
+"year": 2003,
+"title": "Electronics for arrays of transition edge sensors using digital signal processing",
+"authors": "S. Nam, J. Beyer, G. Hilton, K. Irwin, C. Reintsema,  Martinis",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 618\u201321",
+"doi": "https://doi.org/10.1109/TASC.2003.813963",
+"num": 493
+},
+{
+"year": 2003,
+"title": "Performance of 32-channel time-division SQUID multiplexer for cryogenic detector arrays",
+"authors": "J. Beyer, P. A. de Korte, C. D. Reintsema, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 649\u201352",
+"doi": "https://doi.org/10.1109/TASC.2003.813983",
+"num": 494
+},
+{
+"year": 2003,
+"title": "T-C suppression in superconducting films for use in transition edge sensors",
+"authors": "S. W. Deiker, G. C. Hilton, K. D. Irwin, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 661\u201363",
+"doi": "https://doi.org/10.1109/TASC.2003.813988",
+"num": 495
+},
+{
+"year": 2003,
+"title": "SCUBA-2: A large format submillimetre camera on the James Clerk maxwell telescope",
+"authors": "W. S. Holland, W. D. Duncan, B. D. Kelly, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 1\u201318",
+"doi": "https://doi.org/10.1117/12.459152",
+"num": 496
+},
+{
+"year": 2003,
+"title": "Ultralow-background large-format bolometer arrays",
+"authors": "D. J. Benford, J. A. Chervenak, K. D. Irwin,  Moseley",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 944\u201353",
+"doi": "https://doi.org/10.1117/12.461576",
+"num": 497
+},
+{
+"year": 2003,
+"title": "SCUBA-2: Developing the detectors",
+"authors": "W. D. Duncan, W. S. Holland, M. D. Audley, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 19\u201329",
+"doi": "https://doi.org/10.1117/12.459107",
+"num": 498
+},
+{
+"year": 2003,
+"title": "Superconducting Bolometer array architectures",
+"authors": "D. J. Benford, J. A. Chervenak, K. D. Irwin, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 148\u201362",
+"doi": "https://doi.org/10.1117/12.459423",
+"num": 499
+},
+{
+"year": 2002,
+"title": "SQUID multiplexers for transition-edge sensors",
+"authors": " Irwin",
+"venue": "Physica C",
+"tag": "Physica C",
+"vol": "pp. 203\u201310",
+"doi": "https://doi.org/10.1016/S0921-4534(01)01167-4",
+"num": 500
+},
+{
+"year": 2002,
+"title": "Design and fabrication of a two-dimensional superconducting bolometer array for SAFIRE",
+"authors": "D. J. Benford, G. M. Voellmer, J. A. Chervenak, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 125\u201335",
+"doi": "https://scholar.google.com/scholar?q=%22Design%20and%20fabrication%20of%20a%20two-dimensional%20superconducting%20bolometer%20array%20for%20SAFIRE%22",
+"num": 501
+},
+{
+"year": 2002,
+"title": "Energy dispersive X-ray spectrometry by microcalorimetry for the SEM",
+"authors": "D. Newbury, D. Wollman, S. W. Nam, et al.",
+"venue": null,
+"tag": null,
+"vol": "pp. 265\u201374",
+"doi": "https://doi.org/10.1007/s006040200030",
+"num": 502
+},
+{
+"year": 2002,
+"title": "First astronomical use of multiplexed transition edge bolometers",
+"authors": "D. J. Benford, T. A. Ames, J. A. Chervenak, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 589\u201392",
+"doi": "https://scholar.google.com/scholar?q=%22First%20astronomical%20use%20of%20multiplexed%20transition%20edge%20bolometers%22",
+"num": 503
+},
+{
+"year": 2002,
+"title": "Time-division SQUID multiplexers",
+"authors": "K. D. Irwin, L. R. Vale, N. E. Bergren, et al.",
+"venue": null,
+"tag": "AIP Conf. Proc.",
+"vol": "pp. 301\u20134",
+"doi": "https://doi.org/10.1063/1.1457650",
+"num": 504
+},
+{
+"year": 2002,
+"title": "TES detector noise limited readout using SQUID multiplexers",
+"authors": "J. G. Staguhn, C. A. Allen, D. J. Benford, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 321\u201324",
+"doi": "https://scholar.google.com/scholar?q=%22TES%20detector%20noise%20limited%20readout%20using%20SQUID%20multiplexers%22",
+"num": 505
+},
+{
+"year": 2001,
+"title": "Microfabricated transition-edge x-ray detectors",
+"authors": "G. C. Hilton, J. M. Martinis, K. D. Irwin, et al.",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 739\u201342",
+"doi": "https://doi.org/10.1109/77.919451",
+"num": 506
+},
+{
+"year": 2001,
+"title": "Transition edge sensor array development",
+"authors": "S. Deiker, J. Chervenak, G. C. Hilton, et al.",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 469\u201372",
+"doi": "https://doi.org/10.1109/77.919384",
+"num": 507
+},
+{
+"year": 2001,
+"title": "Sub-picowatt precision radiometry using superconducting transition edge sensor bolometers",
+"authors": "J. A. Chervenak, E. N. Grossman, C. D. Reintsema, K. D. Irwin, S. H. Moseley,  Allen",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 593\u201396",
+"doi": "https://doi.org/10.1109/77.919415",
+"num": 508
+},
+{
+"year": 2001,
+"title": "SQUID operational amplifier",
+"authors": "K. D. Irwin,  Huber",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 1265\u201370",
+"doi": "https://doi.org/10.1109/77.919580",
+"num": 509
+},
+{
+"year": 2001,
+"title": "Status of CDMS search for dark matter WIMPs",
+"authors": "B. Cabrera, R. Abusaidi, D. S. Akerib, et al.",
+"venue": "20th Texas Symposium on Relativistic Astrophysics",
+"tag": "Search",
+"vol": "pp. 107\u2013118",
+"doi": "https://scholar.google.com/scholar?q=%22Status%20of%20CDMS%20search%20for%20dark%20matter%20WIMPs%22",
+"num": 510
+},
+{
+"year": 2001,
+"title": "Energy dispersive x-ray spectrometry with the transition edge sensor microcalorimeter: A revolutionary advance in materials microanalysis",
+"authors": "D. Newbury, D. Wollman, K. Irwin, G. Hilton, J. Martinis",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 75\u201380",
+"doi": "https://scholar.google.com/scholar?q=%22Energy%20dispersive%20x-ray%20spectrometry%20with%20the%20transition%20edge%20sensor%20microcalorimeter%3A%20A%20revolutionary%20advance%20in%20materials%20microanalysis%22",
+"num": 511
+},
+{
+"year": 2001,
+"title": "Low voltage microanalysis using microcalorimeter EDS",
+"authors": "D. A. Wollman, S. W. Nam, G. C. Hilton, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 506\u201310",
+"doi": "https://scholar.google.com/scholar?q=%22Low%20voltage%20microanalysis%20using%20microcalorimeter%20EDS%22",
+"num": 512
+},
+{
+"year": 2001,
+"title": "Results of the Cryogenic Dark Matter Search",
+"authors": "R. W. Schnee, R. Abusaidi, D. S. Akerib, et al.",
+"venue": "3rd International Conference on Dark Matter in Astro- and Particle Physics (DARK 2000)",
+"tag": "Search",
+"vol": "pp. 569\u2013574",
+"doi": "https://scholar.google.com/scholar?q=%22Results%20of%20the%20Cryogenic%20Dark%20Matter%20Search%22",
+"num": 513
+},
+{
+"year": 2001,
+"title": "Recent results from the Cryogenic Dark Matter Search for weakly interacting massive particles",
+"authors": "R. J. Gaitskell, R. Abusaidi, D. S. Akerib, et al.",
+"venue": "4th International Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe",
+"tag": "Search",
+"vol": "pp. 322\u2013332",
+"doi": "https://scholar.google.com/scholar?q=%22Recent%20results%20from%20the%20Cryogenic%20Dark%20Matter%20Search%20for%20weakly%20interacting%20massive%20particles%22",
+"num": 514
+},
+{
+"year": 2000,
+"title": "Multiplexed readout of superconducting bolometers",
+"authors": "D. J. Benford, C. A. Allen, J. A. Chervenak, et al.",
+"venue": "International Journal of Infrared and Millimeter Waves",
+"tag": null,
+"vol": "21 (12): 1909\u201316",
+"doi": "https://doi.org/10.1023/A:1006752416612",
+"num": 515
+},
+{
+"year": 2000,
+"title": "Microcalorimeter energy-dispersive spectrometry using a low voltage scanning electron microscope",
+"authors": "D. A. Wollman, S. W. Nam, G. C. Hilton, et al.",
+"venue": "Journal of Microscopy",
+"tag": "J. Microsc.",
+"vol": "199: 37\u201344",
+"doi": "https://doi.org/10.1046/j.1365-2818.2000.00705.x",
+"num": 516
+},
+{
+"year": 2000,
+"title": "Exclusion limits on the WIMP-nucleon cross section from the Cryogenic Dark Matter Search",
+"authors": "R. Abusaidi, D. S. Akerib, P. D. Barnes, et al.",
+"venue": "Physical Review Letters",
+"tag": "Phys. Rev. Lett.",
+"vol": "84 (25): 5699-5703",
+"doi": "https://doi.org/10.1103/PhysRevLett.84.5699",
+"num": 518
+},
+{
+"year": 2000,
+"title": "The approaching revolution in X-ray microanalysis: The microcalorimeter energy dispersive spectrometer",
+"authors": "D. E. Newbury, D. A. Wollman, G. C. Hilton, et al.",
+"venue": null,
+"tag": null,
+"vol": "pp. 627\u201335",
+"doi": "https://doi.org/10.1023/A:1006777606703",
+"num": 519
+},
+{
+"year": 2000,
+"title": "Exclusion limits on the WIMP-nucleon scattering cross-section from the Cryogenic Dark Matter Search",
+"authors": "S. R. Golwala, R. Abusaidi, D. S. Akerib, et al.",
+"venue": "8th International Workshop on Low-Temperature Detectors (LTD-8)",
+"tag": "Search",
+"vol": "pp. 345\u201349",
+"doi": "https://scholar.google.com/scholar?q=%22Exclusion%20limits%20on%20the%20WIMP-nucleon%20scattering%20cross-section%20from%20the%20Cryogenic%20Dark%20Matter%20Search%22",
+"num": 520
+},
+{
+"year": 2000,
+"title": "Superconducting transition-edge-microcalorimeter X-ray spectrometer with 2 eV energy resolution at 1.5 keV",
+"authors": "D. A. Wollman, S. W. Nam, D. E. Newbury, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 145\u201350",
+"doi": "https://doi.org/10.1016/S0168-9002(99)01351-0",
+"num": 521
+},
+{
+"year": 2000,
+"title": "Performance of multiplexed SQUID readout for Cryogenic Sensor Arrays",
+"authors": "J. A. Chervenak, E. N. Grossman, K. D. Irwin, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 107\u201310",
+"doi": "https://doi.org/10.1016/S0168-9002(99)01339-X",
+"num": 522
+},
+{
+"year": 2000,
+"title": "Calculation of T-c in a normal-superconductor bilayer using the microscopic-based Usadel theory",
+"authors": "J. M. Martinis, G. C. Hilton, K. D. Irwin,  Wollman",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 23\u201327",
+"doi": "https://doi.org/10.1016/S0168-9002(99)01320-0",
+"num": 523
+},
+{
+"year": 2000,
+"title": "A Mo-Cu superconducting transition-edge microcalorimeter with 4.5 eV energy resolution at 6 keV",
+"authors": "K. D. Irwin, G. C. Hilton, J. M. Martinis, et al.",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 184\u201387",
+"doi": "https://doi.org/10.1016/S0168-9002(99)01354-6",
+"num": 524
+},
+{
+"year": 2000,
+"title": "Superconducting bolometer arrays for submillimeter astronomy",
+"authors": "D. J. Benford, C. A. Allen, J. A. Chervenak, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 134\u201339",
+"doi": "https://scholar.google.com/scholar?q=%22Superconducting%20bolometer%20arrays%20for%20submillimeter%20astronomy%22",
+"num": 525
+},
+{
+"year": 2000,
+"title": "A sounding rocket mission to study the solar soft X-ray and EUV emission using transition-edge sensor technology",
+"authors": "K. Wamba, A. B. Walker, D. S. Martinez-Galarce, et al.",
+"venue": "Conference on X-Ray and Gamma-Ray Instrumentation for Astronomy IX",
+"tag": "Search",
+"vol": "pp. 384\u2013396",
+"doi": "https://scholar.google.com/scholar?q=%22A%20sounding%20rocket%20mission%20to%20study%20the%20solar%20soft%20X-ray%20and%20EUV%20emission%20using%20transition-edge%20sensor%20technology%22",
+"num": 526
+},
+{
+"year": 2000,
+"title": "Superconducting transition-edge bolometer arrays for ultra-low power radiometry",
+"authors": "E. N. Grossman, J. A. Chervenak, K. D. Irwin, C. D. Reintsema, C. Allen,  Moseley",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 349\u201350",
+"doi": "https://doi.org/10.1109/CPEM.2000.851019",
+"num": 527
+},
+{
+"year": 2000,
+"title": "Microcalorimeter EDS for low voltage microanalysis",
+"authors": "D. A. Wollman, D. E. Newbury, S. W. Nam, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 125\u201326",
+"doi": "https://scholar.google.com/scholar?q=%22Microcalorimeter%20EDS%20for%20low%20voltage%20microanalysis%22",
+"num": 528
+},
+{
+"year": 2000,
+"title": "Development of arrays of TES X-ray detectors",
+"authors": "S. Deiker, J. Chevenak, G. C. Hilton, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 360\u201366",
+"doi": "https://doi.org/10.1117/12.409130",
+"num": 529
+},
+{
+"year": 1999,
+"title": "Quantum calorimetry",
+"authors": "C. K. Stahle, D. McCammon,  Irwin",
+"venue": "Physics Today",
+"tag": "Physics Today",
+"vol": "52 (8): 32\u201337",
+"doi": "https://doi.org/10.1063/1.882776",
+"num": 530
+},
+{
+"year": 1999,
+"title": "Superconducting multiplexer for arrays of transition edge sensors",
+"authors": "J. A. Chervenak, K. D. Irwin, E. N. Grossman, J. M. Martinis, C. D. Reintsema,  Huber",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "74 (26): 4043\u201345",
+"doi": "https://doi.org/10.1063/1.123255",
+"num": 531
+},
+{
+"year": 1999,
+"title": "Superconducting transition-edge microcalorimeters for X-ray microanalysis",
+"authors": "G. C. Hilton, D. A. Wollman, K. D. Irwin, L. L. Dulcie, N. F. Bergren,  Martinis",
+"venue": "IEEE",
+"tag": "IEEE",
+"vol": "pp. 3177\u201381",
+"doi": "https://doi.org/10.1109/77.783704",
+"num": 532
+},
+{
+"year": 1999,
+"title": "Preliminary limits on the WIMP-nucleon cross section from the Cryogenic Dark Matter Search (CDMS)",
+"authors": "D. S. Akerib, P. D. Barnes, D. A. Bauer, et al.",
+"venue": "5th International Workshop on Topics in Astroparticle and Underground Physics (TAUP 97)",
+"tag": "Search",
+"vol": "pp. 64\u201368",
+"doi": "https://scholar.google.com/scholar?q=%22Preliminary%20limits%20on%20the%20WIMP-nucleon%20cross%20section%20from%20the%20Cryogenic%20Dark%20Matter%20Search%20%28CDMS%29%22",
+"num": 533
+},
+{
+"year": 1999,
+"title": "Toward a 2-eV microcalorimeter x-ray spectrometer for Constellation-X",
+"authors": "C. K. Stahle, Barbee Bandler, Beeman T., et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 82\u201393",
+"doi": "https://doi.org/10.1117/12.366490",
+"num": 534
+},
+{
+"year": 1999,
+"title": "Cryogenic microcalorimeters for x-ray microanalysis",
+"authors": "D. A. Wollman, G. C. Hilton, K. D. Irwin, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 811\u201319",
+"doi": "https://scholar.google.com/scholar?q=%22Cryogenic%20microcalorimeters%20for%20x-ray%20microanalysis%22",
+"num": 535
+},
+{
+"year": 1999,
+"title": "Application of microcalorimeter EDS x-ray detectors to particle analysis",
+"authors": "A. C. Diebold, D. A. Wollman, G. C. Hilton, K. D. Irwin, J. M. Martinis,  Liu",
+"venue": "Solid State Phenomena",
+"tag": null,
+"vol": "65-6: 199\u2013202",
+"doi": "https://doi.org/10.4028/www.scientific.net/SSP.65-66.199",
+"num": 536
+},
+{
+"year": 1998,
+"title": "Results and status of the Cryogenic Dark Matter Search (CDMS)",
+"authors": "R. W. Schnee, D. S. Akerib, P. D. Barnes, et al.",
+"venue": "Workshop on Primordial Black Holes and Hawking Radiation/3rd International Symposium on Sources and Detection of Dark Matter in the Universe",
+"tag": "Search",
+"vol": "pp. 283\u201390",
+"doi": "https://scholar.google.com/scholar?q=%22Results%20and%20status%20of%20the%20Cryogenic%20Dark%20Matter%20Search%20%28CDMS%29%22",
+"num": 537
+},
+{
+"year": 1998,
+"title": "Thermal-response time of superconducting transition-edge microcalorimeters",
+"authors": "K. D. Irwin, G. C. Hilton, D. A. Wollman,  Martinis",
+"venue": "Journal of Applied Physics",
+"tag": "J. Appl. Phys.",
+"vol": "83 (8): 3978\u201385",
+"doi": "https://doi.org/10.1063/1.367153",
+"num": 538
+},
+{
+"year": 1998,
+"title": "Impact energy measurement in time-of-flight mass spectrometry with cryogenic microcalorimeters",
+"authors": "G. C. Hilton, J. M. Martinis, D. A. Wollman, et al.",
+"venue": "Nature",
+"tag": "Nature",
+"vol": "391 (6668): 672\u201375",
+"doi": "https://doi.org/10.1038/35582",
+"num": 539
+},
+{
+"year": 1998,
+"title": "Status and results from the cryogenic dark matter search (CDMS)",
+"authors": "R. J. Gaitskell, D. S. Akerib, P. D. Barnes, et al.",
+"venue": "1st International Conference on Particle Physics Beyond the Standard Model",
+"tag": "Search",
+"vol": "pp. 781\u2013785",
+"doi": "https://scholar.google.com/scholar?q=%22Status%20and%20results%20from%20the%20cryogenic%20dark%20matter%20search%20%28CDMS%29%22",
+"num": 540
+},
+{
+"year": 1998,
+"title": "High-resolution microcalorimeter energy-dispersive spectrometer for x-ray microanalysis and particle analysis",
+"authors": "D. A. Wollman, G. C. Hilton, K. D. Irwin, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 799\u2013804",
+"doi": "https://scholar.google.com/scholar?q=%22High-resolution%20microcalorimeter%20energy-dispersive%20spectrometer%20for%20x-ray%20microanalysis%20and%20particle%20analysis%22",
+"num": 541
+},
+{
+"year": 1998,
+"title": "Microcalorimeter EDS with 3 eV energy resolution",
+"authors": "D. A. Wollman, K. D. Irwin, G. C. Nilton, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 573\u201374",
+"doi": "https://scholar.google.com/scholar?q=%22Microcalorimeter%20EDS%20with%203%20eV%20energy%20resolution%22",
+"num": 542
+},
+{
+"year": 1998,
+"title": "Silicon nitride micromesh bolometer arrays for SPIRE",
+"authors": "J. J. Bock, J. Glenn, S. M. Grannan, et al.",
+"venue": "Proceedings of SPIE",
+"tag": "Proc. SPIE",
+"vol": "pp. 297\u2013304",
+"doi": "https://doi.org/10.1117/12.317365",
+"num": 543
+},
+{
+"year": 1997,
+"title": "High-resolution, energy-dispersive microcalorimeter spectrometer for X-ray microanalysis",
+"authors": "D. A. Wollman, K. D. Irwin, G. C. Hilton, L. L. Dulcie, D. E. Newbury,  Martinis",
+"venue": "Journal of Microscopy",
+"tag": "J. Microsc.",
+"vol": "188: 196\u2013223",
+"doi": "https://doi.org/10.1046/j.1365-2818.1997.2670824.x",
+"num": 544
+},
+{
+"year": 1997,
+"title": "Technique for fabricating tungsten thin film sensors with T-c <=100 mK on germanium and silicon substrates",
+"authors": "B. A. Young, S. W. Nam, P. L. Brink, et al.",
+"venue": "1996 Applied Superconductivity Conference",
+"tag": "Search",
+"vol": "pp. 3367\u201370",
+"doi": "https://scholar.google.com/scholar?q=%22Technique%20for%20fabricating%20tungsten%20thin%20film%20sensors%20with%20T-c%20%3C%3D100%20mK%20on%20germanium%20and%20silicon%20substrates%22",
+"num": 545
+},
+{
+"year": 1996,
+"title": "Progress of the cryogenic dark matter search (CDMS) experiment",
+"authors": "T. Shutt, D. S. Akerib, P. D. Barnes, et al.",
+"venue": "2nd Symposium on Dark Matter in the Universe",
+"tag": "Search",
+"vol": "pp. 318\u2013322",
+"doi": "https://scholar.google.com/scholar?q=%22Progress%20of%20the%20cryogenic%20dark%20matter%20search%20%28CDMS%29%20experiment%22",
+"num": 546
+},
+{
+"year": 1996,
+"title": "X-ray detection using a superconducting transition-edge sensor microcalorimeter with electrothermal feedback",
+"authors": "K. D. Irwin, G. C. Hilton, D. A. Wollman,  Martinis",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "69 (13): 1945\u201347",
+"doi": "https://doi.org/10.1063/1.117630",
+"num": 547
+},
+{
+"year": 1996,
+"title": "A superconducting bolometer with strong electrothermal feedback",
+"authors": "A. T. Lee, P. L. Richards, S. W. Nam, B. Cabrera,  Irwin",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "69 (12): 1801-1803",
+"doi": "https://doi.org/10.1063/1.117491",
+"num": 548
+},
+{
+"year": 1996,
+"title": "Advances in Stanford phonon-mediated elementary particle detectors",
+"authors": "B. Cabrera, P. L. Brink, B. Chugg, et al.",
+"venue": "4th International Conference on Phonon Physics/8th International Conference on Phonon Scattering in Condensed Matter (PHONONS 95)",
+"tag": "Search",
+"vol": "pp. 744\u2013747",
+"doi": "https://scholar.google.com/scholar?q=%22Advances%20in%20Stanford%20phonon-mediated%20elementary%20particle%20detectors%22",
+"num": 549
+},
+{
+"year": 1996,
+"title": "A hot-electron microcalorimeter for X-ray detection using a superconducting transition edge sensor with electrothermal feedback",
+"authors": "K. D. Irwin, G. C. Hilton, J. M. Martinis,  Cabrera",
+"venue": "Nuclear Instruments and Methods in Physics Research A",
+"tag": "Nucl. Instrum. Methods A",
+"vol": "pp. 177\u201379",
+"doi": "https://doi.org/10.1016/0168-9002(95)01076-9",
+"num": 550
+},
+{
+"year": 1996,
+"title": "SQUID based W-Al quasiparticle trapping assisted transition edge sensor",
+"authors": "S. W. Nam, B. Cabrera, B. Chugg, et al.",
+"venue": "6th International Workshop on Low Temperature Detectors (LTD6)",
+"tag": "Search",
+"vol": "pp. 187\u201389",
+"doi": "https://scholar.google.com/scholar?q=%22SQUID%20based%20W-Al%20quasiparticle%20trapping%20assisted%20transition%20edge%20sensor%22",
+"num": 551
+},
+{
+"year": 1996,
+"title": "Installation of the Cryogenic Dark Matter Search (CDMS)",
+"authors": "P. D. Barnes, A. Dasilva, D. S. Akerib, et al.",
+"venue": "6th International Workshop on Low Temperature Detectors (LTD6)",
+"tag": "Search",
+"vol": "pp. 233\u201336",
+"doi": "https://scholar.google.com/scholar?q=%22Installation%20of%20the%20Cryogenic%20Dark%20Matter%20Search%20%28CDMS%29%22",
+"num": 552
+},
+{
+"year": 1995,
+"title": "A quasi-particle-trap-assisted transition-edge sensor for phonon-mediated particle-detection",
+"authors": "K. D. Irwin, S. W. Nam, B. Cabrera, B. Chugg,  Young",
+"venue": "Review of Scientific Instruments",
+"tag": "Rev. Sci. Instrum.",
+"vol": "66 (11): 5322-5326",
+"doi": "https://doi.org/10.1063/1.1146105",
+"num": 553
+},
+{
+"year": 1995,
+"title": "A self-biasing cryogenic particle detector utilizing electrothermal feedback and a SQUID readout",
+"authors": "K. D. Irwin, S. W. Nam, B. Cabrera, et al.",
+"venue": "IEEE Transactions on Applied Superconductivity",
+"tag": "IEEE Trans. Appl. Supercond.",
+"vol": "pp. 2690\u201393",
+"doi": "https://ieeexplore.ieee.org/document/403145",
+"num": 554
+},
+{
+"year": 1995,
+"title": "An application of electrothermal feedback for high-resolution cryogenic particle-detection",
+"authors": "K. D. Irwin",
+"venue": "Applied Physics Letters",
+"tag": "Appl. Phys. Lett.",
+"vol": "66 (15): 1998\u20132000",
+"doi": "https://doi.org/10.1063/1.113674",
+"num": 555
+},
+{
+"year": 1993,
+"title": "Design of kilogram mass scale TES for the cryogenic dark-matter search",
+"authors": "B. Chugg, K. D. Irwin,  Cabrera",
+"venue": "5th international workshop on low temperature detectors ( LTD-5 )",
+"tag": "Search",
+"vol": "pp. 429\u201332",
+"doi": "https://scholar.google.com/scholar?q=%22Design%20of%20kilogram%20mass%20scale%20TES%20for%20the%20cryogenic%20dark-matter%20search%22",
+"num": 556
+},
+{
+"year": 1993,
+"title": "The 1st cryogenic dark-matter experiment 5th international workshop on low temperature detectors ( LTD-5 )",
+"authors": "P. D. Barnes, A. Dasilva, E. Aubourg, et al.",
+"venue": null,
+"tag": "Search",
+"vol": "pp. 791\u201396",
+"doi": "https://scholar.google.com/scholar?q=%22The%201st%20cryogenic%20dark-matter%20experiment%205th%20international%20workshop%20on%20low%20temperature%20detectors%20%28%20LTD-5%20%29%22",
+"num": 557
+},
+{
+"year": 1993,
+"title": "Quantum efficient detection of phonons with tungsten thin-films",
+"authors": "K. D. Irwin, B. Cabrera, R. King,  Tigner",
+"venue": "7th International Conference on Phonon Scattering in Condensed Matter",
+"tag": "Search",
+"vol": "pp. 486\u2013487",
+"doi": "https://scholar.google.com/scholar?q=%22Quantum%20efficient%20detection%20of%20phonons%20with%20tungsten%20thin-films%22",
+"num": 558
+},
+{
+"year": 1993,
+"title": "A pilot dark-matter particle search experiment",
+"authors": "B. A. Young, B. L. Dougherty, B. Chugg, et al.",
+"venue": "26th international conf on high energy physics",
+"tag": "Search",
+"vol": "pp. 1260\u20131265",
+"doi": "https://scholar.google.com/scholar?q=%22A%20pilot%20dark-matter%20particle%20search%20experiment%22",
+"num": 559
+},
+{
+"year": 1992,
+"title": "Tungsten thin-films for use in cryogenic particle detectors",
+"authors": "K. D. Irwin, B. Cabrera, B. Tigner,  Sethuraman",
+"venue": "IVth International Workshop on Low Temperature Detectors for Neutrinos and Dark Matter (LTD-4)",
+"tag": "Search",
+"vol": "pp. 209\u2013215",
+"doi": "https://scholar.google.com/scholar?q=%22Tungsten%20thin-films%20for%20use%20in%20cryogenic%20particle%20detectors%22",
+"num": 560
+},
+{
+"year": 1992,
+"title": "Phonon-mediated detectors for dark matter searches and neutrino experiments",
+"authors": "B. Cabrera, B. L. Dougherty, K. D. Irwin, A. T. Lee, J. G. Pronko,  Young",
+"venue": "2nd international workshop on theoretical and phenomenological aspects of underground physics ( taup 91 )",
+"tag": "Search",
+"vol": "pp. 449\u2013461",
+"doi": "https://scholar.google.com/scholar?q=%22Phonon-mediated%20detectors%20for%20dark%20matter%20searches%20and%20neutrino%20experiments%22",
+"num": 561
+}
+]
