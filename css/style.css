@@ -722,3 +722,4 @@ figure.fig-sm img { max-width: 420px; width: 100%; }
 }
 /* Research-page slideshows (RQU + Scanning SQUID): larger */
 .mss-stage, .mss-meta { max-width: 1080px; }
+.alum-name a { color: var(--ink); } .alum-name a:hover { color: var(--accent); }
