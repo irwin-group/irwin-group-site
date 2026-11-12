@@ -351,7 +351,7 @@ figcaption { text-align: center; color: var(--muted); font-size: .9rem; margin-t
 @media (max-width: 620px) { :root { --pad: 20px; } }
 
 /* Page content margins (all pages). Header/footer and full-width photos are unaffected. */
-main { --pad: clamp(24px, 12vw, 220px); }
+main { --pad: clamp(24px, 10vw, 190px); }
 @media (max-width: 620px) { main { --pad: 24px; } }
 
 /* ---------- Publications & News: year groups ---------- */
