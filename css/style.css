@@ -711,3 +711,14 @@ figure.fig-sm img { max-width: 420px; width: 100%; }
 .news-cards { max-width: none; }
 /* Research banner: no fades at all */
 .page-research .photo-head .banner-bg { -webkit-mask-image: none !important; mask-image: none !important; }
+/* Scanning SQUID slideshow: show each whole image (no cropping) */
+.page-research-scanning-squid .mss-stage .mslide img { object-fit: contain; -webkit-mask-image: none; mask-image: none; }
+/* Scanning SQUID slideshow: whole image, sized to the photo itself, with the same soft side fade as the RQU slideshow */
+.page-research-scanning-squid .mss-stage .mslide img {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  width: auto; height: auto; max-width: 100%; max-height: 100%; object-fit: contain;
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,.15) 0%, #000 10%, #000 90%, rgba(0,0,0,.15) 100%);
+          mask-image: linear-gradient(to right, rgba(0,0,0,.15) 0%, #000 10%, #000 90%, rgba(0,0,0,.15) 100%);
+}
+/* Research-page slideshows (RQU + Scanning SQUID): larger */
+.mss-stage, .mss-meta { max-width: 1080px; }
