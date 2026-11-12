@@ -654,3 +654,58 @@ figure.fig-sm img { max-width: 420px; width: 100%; }
 .ap-list li { background: none; border: none; border-bottom: 1px solid var(--line); border-radius: 0; padding: 10px 0; box-shadow: none !important; transform: none !important; }
 .ap-list li::before { display: none; }
 .ap-list .title { font-size: .98rem; }
+
+/* Research overview banner: CMB map slightly narrower than the page, side edges fading into black */
+.page-research .photo-head { background: #000; }
+.page-research .photo-head .banner-bg {
+  left: 8%; width: 84%;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 14%, #000 86%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 14%, #000 86%, transparent 100%);
+}
+@media (max-width: 620px) { .page-research .photo-head .banner-bg { left: 0; width: 100%; -webkit-mask-image: none; mask-image: none; } }
+/* Research banner: shrink less (92% width) */
+.page-research .photo-head .banner-bg {
+  left: 4%; width: 92%;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 10%, #000 90%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 10%, #000 90%, transparent 100%);
+}
+@media (max-width: 620px) { .page-research .photo-head .banner-bg { left: 0; width: 100%; -webkit-mask-image: none; mask-image: none; } }
+/* Research banner: shrink even less (96% width) */
+.page-research .photo-head .banner-bg {
+  left: 2%; width: 96%;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 7%, #000 93%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 7%, #000 93%, transparent 100%);
+}
+@media (max-width: 620px) { .page-research .photo-head .banner-bg { left: 0; width: 100%; -webkit-mask-image: none; mask-image: none; } }
+/* Research banner: 98% width */
+.page-research .photo-head .banner-bg {
+  left: 1%; width: 98%;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 5%, #000 95%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 5%, #000 95%, transparent 100%);
+}
+@media (max-width: 620px) { .page-research .photo-head .banner-bg { left: 0; width: 100%; -webkit-mask-image: none; mask-image: none; } }
+/* Research banner: full width, only a soft fade at the very edges */
+.page-research .photo-head .banner-bg {
+  left: 0; width: 100%;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 4%, #000 96%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 4%, #000 96%, transparent 100%);
+}
+@media (max-width: 620px) { .page-research .photo-head .banner-bg { -webkit-mask-image: none; mask-image: none; } }
+/* Research banner: even subtler edge fade */
+.page-research .photo-head .banner-bg {
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 2%, #000 98%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0%, #000 2%, #000 98%, transparent 100%);
+}
+@media (max-width: 620px) { .page-research .photo-head .banner-bg { -webkit-mask-image: none; mask-image: none; } }
+/* Research banner (enhanced CMB): no side fades; small fade at the top into the black header */
+.page-research .photo-head .banner-bg {
+  left: 0; width: 100%;
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 12%);
+          mask-image: linear-gradient(to bottom, transparent 0%, #000 12%);
+}
+.page-research .photo-head { background: var(--bar); }
+@media (max-width: 620px) { .page-research .photo-head .banner-bg {
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 12%);
+          mask-image: linear-gradient(to bottom, transparent 0%, #000 12%); } }
+/* News list spans the full content width, like other pages */
+.news-cards { max-width: none; }
