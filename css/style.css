@@ -11,9 +11,9 @@
   --line: #dcdcd6;          /* thin rules */
   --bg: #f4f4f0;            /* page background: soft off-white */
   --bg-soft: #e9e9e4;       /* cards, placeholders */
-  --bar: #424850;           /* dark top bar + footer (slightly lighter charcoal) */
-  --bar-text: #eef0f2;      /* text on the dark bar */
-  --bar-muted: #c4c9cf;
+  --bar: #2a2f36;           /* dark top bar + footer (slightly lighter charcoal) */
+  --bar-text: #dde0e4;      /* text on the dark bar */
+  --bar-muted: #a7adb5;
   --red: #b5302a;           /* red highlight (years, awards, hover accents) */
   --max: 100%;              /* content spans the page; side margins set by --pad */
   --pad: 0.5in;             /* side margins on every page (about half an inch) */
